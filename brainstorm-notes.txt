@@ -101,6 +101,7 @@ Steps to take:
 - Create a Gitlab repo for these written notes - DONE
 - Create a public Slack channel, so interested partners can start to discuss and organize?
 - Choose a name for the Incubator
+- Register the domain
 - Create a webpage 
 - Register a legal entity
 
