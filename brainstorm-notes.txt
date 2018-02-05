@@ -98,7 +98,7 @@ Steps to take:
 - And the payment could support the incubator 
 - This is worth a brainstorm session.
 - I think that we need to get all of this down on paper. 
-- Create a Gitlab repo for these written notes - DONE
+- Create a Gitlab repo for these written notes - DONE 
 - Create a public Slack channel, so interested partners can start to discuss and organize?
 - Choose a name for the Incubator
 - Register the domain
@@ -112,6 +112,7 @@ The incubator:
 - The entire curriculum and course materials would be open-sourced. Naturally.. 😉
 - And the initial staff will be a collective of independent third parties organized in a fashion that's win-win.
 - Just like ROS. 
+- There wouldn't be an office either.  The initiative would get itself started purely online.
 - That way the incubator itself can cheaply bootstrap itself
 - It's pure B2B crowdfunding - a concept that almost doesn't exist in practice, as far as I know 
 - Perhaps sharing our open-source infra (and helping them to get started with using it) would also be part of the value proposition of the FFI Incubator.
@@ -119,3 +120,9 @@ The incubator:
 Non-profit company principles:
 - Non-profit (FFI)
 - Decentralized management(?), ala Holocracy/Teal
+
+== Actions already taken ==
+
+1) Create a Gitlab repo for these notes
+2) Starting to setup meetings/call with volunteers and strategic partners 
+
