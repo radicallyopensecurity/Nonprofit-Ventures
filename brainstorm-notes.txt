@@ -125,4 +125,7 @@ Non-profit company principles:
 
 1) Create a Gitlab repo for these notes
 2) Starting to setup meetings/call with volunteers and strategic partners 
+3) Start to brainstorm so we can choose a working name for the Incubator
+4) Discuss: if the Incubator is going to be an FFI, which ANBI Stichting would it be supporting?  (NLnet?  Someone else?)
 
+(It's useful to document this, because this TODO list may eventually become a part of the curriculum we're teaching.)  The Incubator itself should self as a case-study for how someone can do it.   :-)
