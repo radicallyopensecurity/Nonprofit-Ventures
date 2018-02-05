@@ -77,8 +77,7 @@ quote-writing to invoicing and payments).  Most of the work a good FFI does will
 a service, and making this as frictionless as possible, with automation and modern 
 software facilitating the drudgery) 
 
-Steps to take:
-
+How it would work:
 - Wannabee social entrepreneurs would apply for the program
 - We'd literally run a startup Bootcamp on how to create an FFI 
 - And we'd find companies in advance who request certain kinds of services they want to purchase
@@ -98,12 +97,16 @@ Steps to take:
 - And the payment could support the incubator 
 - This is worth a brainstorm session.
 - I think that we need to get all of this down on paper. 
+
+Steps to take:
 - Create a Gitlab repo for these written notes - DONE 
-- Create a public Slack channel, so interested partners can start to discuss and organize?
-- Choose a name for the Incubator
-- Register the domain
+- Create a public Slack channel, so interested partners can start to discuss and organize? - DONE
+- Choose a name for the Incubator - DONE (for now..  we can change it later if we think of something better)
+- Register the domain - DONE
 - Create a webpage 
 - Register a legal entity
+- Create a logo and house style
+- Rally potential partners of various kinds
 
 The incubator:
 - The incubator itself needs to embody the principles that we'd be teaching in the curriculum
@@ -127,12 +130,12 @@ Non-profit company principles:
 0) Announce idea at Bilderberg Conference
 5 Feb
 1) Create a Gitlab repo for these notes
-2) Starting to setup meetings/calls with volunteers and strategic partners 
+2) Starting to setup meetings/calls with strategic partners and volunteers
 3) Brainstorm about a working name for the Incubator
 4) Discuss: if the Incubator is going to be an FFI, which ANBI Stichting would it be supporting?  (NLnet?  Someone else?)
 5) Choose 'Nonprofit Ventures' as working name.  (We can always change it later, but this allows us to get started)
-6) Register domain name 'nonprofit.ventures'
-7) Check that the name isn't already taken in KvK / EUIPO / USPTO
+6) Check that the name isn't already taken in KvK / EUIPO / USPTO
+7) Register domain name 'nonprofit.ventures' + SSL cert
 8) Email notary to prepare for registration w/ KvK
 9) Register Github organization + Twitter handle + Slack account
 
