@@ -123,9 +123,17 @@ Non-profit company principles:
 
 == Actions already taken ==
 
+3 Feb
+0) Announce idea at Bilderberg Conference
+5 Feb
 1) Create a Gitlab repo for these notes
-2) Starting to setup meetings/call with volunteers and strategic partners 
-3) Start to brainstorm so we can choose a working name for the Incubator
+2) Starting to setup meetings/calls with volunteers and strategic partners 
+3) Brainstorm about a working name for the Incubator
 4) Discuss: if the Incubator is going to be an FFI, which ANBI Stichting would it be supporting?  (NLnet?  Someone else?)
+5) Choose 'Nonprofit Ventures' as working name.  (We can always change it later, but this allows us to get started)
+6) Register domain name 'nonprofit.ventures'
+7) Check that the name isn't already taken in KvK / EUIPO / USPTO
+8) Email notary to prepare for registration w/ KvK
+9) Register Github organization + Twitter handle
 
-(It's useful to document this, because this TODO list may eventually become a part of the curriculum we're teaching.)  The Incubator itself should self as a case-study for how someone can do it.   :-)
+(It's useful to document this, because this list may eventually become a part of the curriculum we're teaching.)  Similar to ROS, the Incubator itself should self as a case-study for how someone can do it.   :-)
