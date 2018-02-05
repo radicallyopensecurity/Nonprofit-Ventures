@@ -107,6 +107,7 @@ Steps to take:
 - Register a legal entity
 - Create a logo and house style
 - Rally potential partners of various kinds
+- Setup RocketChat in a new VM
 
 The incubator:
 - The incubator itself needs to embody the principles that we'd be teaching in the curriculum
@@ -138,5 +139,6 @@ Non-profit company principles:
 7) Register domain name 'nonprofit.ventures' + SSL cert
 8) Email notary to prepare for registration w/ KvK
 9) Register Github organization + Twitter handle + Slack account
+10) Reject the idea of using Slack.  We'll use RocketChat (in a separate VM instead).
 
 (It's useful to document this, because this list may eventually become a part of the curriculum we're teaching.)  Similar to ROS, the Incubator itself should self as a case-study for how someone can do it.   :-)
