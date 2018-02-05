@@ -134,6 +134,6 @@ Non-profit company principles:
 6) Register domain name 'nonprofit.ventures'
 7) Check that the name isn't already taken in KvK / EUIPO / USPTO
 8) Email notary to prepare for registration w/ KvK
-9) Register Github organization + Twitter handle
+9) Register Github organization + Twitter handle + Slack account
 
 (It's useful to document this, because this list may eventually become a part of the curriculum we're teaching.)  Similar to ROS, the Incubator itself should self as a case-study for how someone can do it.   :-)
