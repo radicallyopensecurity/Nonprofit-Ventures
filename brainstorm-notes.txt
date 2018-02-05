@@ -107,7 +107,7 @@ Steps to take:
 
 The incubator:
 - The incubator itself needs to embody the principles that we'd be teaching in the curriculum
-- No venture capital. No subsidies. Pure bootstrapping via services and launching customers.
+- No venture capital. No subsidies. Pure bootstrapping via the sweat equity of founders (and volunteers), and selling services to launching customers.
 - And then using services to bootstrap the creation of products/open-source IP
 - The entire curriculum and course materials would be open-sourced. Naturally.. 😉
 - And the initial staff will be a collective of independent third parties organized in a fashion that's win-win.
