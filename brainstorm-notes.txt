@@ -98,6 +98,8 @@ Steps to take:
 - And the payment could support the incubator 
 - This is worth a brainstorm session.
 - I think that we need to get all of this down on paper. 
+- Create a Gitlab repo for these written notes - DONE
+- Create a public Slack channel, so interested partners can start to discuss and organize?
 
 The incubator:
 - The incubator itself needs to embody the principles that we'd be teaching in the curriculum
