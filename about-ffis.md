@@ -9,10 +9,6 @@ It's a choice to support social entrepreneurs and local initiatives
 
 Affect change via purchasing - not donations or subsidies
 
-## About Fiscal Fundraising Institutions
-
-Explain FFI. 
-
 Companies want non-profit suppliers.
 (Clarification by John: companies want suppliers where 
 they know the supplier works based on situation where the quality/correctness of
@@ -26,8 +22,13 @@ supplier where profit is not the primary motivation, or even the secondary.
 Profit may be necessary to survive and grow, but it should not be a motive all 
 by itself.)
 
-Non-profit company principles:
-- Non-profit (FFI)
-- Decentralized management(?), ala Holocracy/Teal
-- Choose an ANBI Stichting to support that is close in purpose to the purpose of the FFI being started
-- Needs volunteers to help as well
+## About Fiscal Fundraising Institutions
+
+* Explain the concept of a Fiscal Fundraising Institution
+  * Explanation (in Dutch): [Fiscaal Fondswervende Instelling](https://vfsa.nl/kennisbank/fiscaal-fondswervende-instelling/)
+
+* Non-profit company principles:
+  * Non-profit (FFI)
+  * Decentralized management(?), ala Holocracy/Teal
+  * Choose an ANBI Stichting to support that is close in purpose to the purpose of the FFI being started
+  * Needs volunteers to help as well
