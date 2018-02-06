@@ -1,4 +1,4 @@
-# Actions Already taken
+# Actions Taken
 
 (It's useful to document this, because this list may eventually become a part of the curriculum we're teaching.)  Similar to ROS, the Incubator itself should self as a case-study for how someone can do it.   :-)
 
