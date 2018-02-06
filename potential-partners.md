@@ -1,14 +1,18 @@
 # Potential Partners
 
-* I think that we can get a lot of initial traction for this.
+We are looking for help to start a Nonprofit Company Incubator!
 
-* Public call for support for commercial companies
-* Can they help to create/support an FFI incubator?
-* WHO WANTS TO HELP???
+## What Kinds Of Partners Do We Need?
 
-* Who might be able to help: RevNext?  Astrid?  Nijenrode?  ACE Venture Lab?  Companies?
-* We need to find partners of all kinds
+* Anyone with skills and enthusiasm who can lend us a helping hand
+* Commercial companies (who want to purchase services from nonprofit vendors)
+* Aspiring social entrepreneurs who want to join our 1st "Startup Bootcamp"
+* We need partners of all kinds!   :-)
 
-* What's in it for you?
-* Build the suppliers that you want to hire in
-* Good PR?
+## Ideas About Who To Approach
+
+* Companies (RevNext?)
+* Incubators (ACE Venture Lab?)
+* Universities (Nijenrode?)
+* Individuals (Astrid?)
+
