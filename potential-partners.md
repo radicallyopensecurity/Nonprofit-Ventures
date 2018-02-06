@@ -9,10 +9,3 @@ We are looking for help to start a Nonprofit Company Incubator!
 * Aspiring social entrepreneurs who want to join our 1st "Startup Bootcamp"
 * We need partners of all kinds!  
 
-## Ideas About Who To Approach
-
-* Companies (RevNext?)
-* Incubators (ACE Venture Lab?)
-* Universities (Nijenrode?)
-* Individuals (Astrid?)
-
