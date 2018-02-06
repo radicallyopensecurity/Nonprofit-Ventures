@@ -17,6 +17,11 @@ quote-writing to invoicing and payments).  Most of the work a good FFI does will
 a service, and making this as frictionless as possible, with automation and modern 
 software facilitating the drudgery) 
 
+Why do companies want to get involved?
+* Build the suppliers that you want to hire in
+* Good PR?
+* I think that we can get a lot of initial traction for this.
+
 This is all quintessentially Dutch
 - the "poldermodel" is an important way the Dutch set policy: not share holders, or owners, or politicians, or 
 some other powerful agent sets polity, but all stake holders together. Key phrase there: stake holder. 
