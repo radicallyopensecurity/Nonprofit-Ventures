@@ -9,3 +9,4 @@ These are raw brainstorm notes.  Please bear with us..  this is a Work In Progre
 * [Potential Partners](potential-partners.md)
 * [TODO List](todo-list.md)
 * [List of Actions Taken](actions-taken.md)
+* [How To Help?](how-to-help.md)
