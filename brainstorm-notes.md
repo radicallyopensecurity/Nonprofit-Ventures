@@ -1,6 +1,6 @@
-= Brainstorm Notes for 'Social Ventures' - the Non-Profit Company Incubator =
+# Brainstorm Notes for 'Social Ventures' - the Non-Profit Company Incubator
 
-== About Fiscal Fundraising Institutions ==
+## About Fiscal Fundraising Institutions
 
 Business is the problem.  Business can also be the solution.
 The solution to many societal and global problems is rooted in social entrepreneurship - decentralized and human-based
@@ -32,7 +32,7 @@ Non-profit company principles:
 - Choose an ANBI Stichting to support that is close in purpose to the purpose of the FFI being started
 - Needs volunteers to help as well
 
-== Case study: Radically Open Security ==
+## Case study: Radically Open Security
 
 Explain ROS.
 ROS is far enough along to serve as a successful case study now. Now we can start teaching other people how to do it..
@@ -41,7 +41,7 @@ The way forward for ROS:
 - From a company to a community.
 - And from a community to a movement. 
 
-== Why We Need A Nonprofit Company Incubator ==
+## Why We Need A Nonprofit Company Incubator
 
 The same principles also apply to startup financing
 You can use your capital to bootstrap and support non-profit companies (FFIs)
@@ -71,7 +71,7 @@ This includes not only the finance providers, but also consumers, citizens, empl
 - In the modern interconnected world, we are ALL stake holders
 
 
-== 'Nonprofit Ventures' Business Model ==
+## 'Nonprofit Ventures' Business Model
 
 - The FFI Incubator would be an FFI itself (naturally)
 - It needs to cover its own costs when bootstrapping + operating (no subsidies)
@@ -110,15 +110,13 @@ The incubator:
 - It's pure B2B crowdfunding - a concept that almost doesn't exist in practice, as far as I know 
 - Perhaps sharing our open-source infra (and helping them to get started with using it) would also be part of the value proposition of the FFI Incubator.
 
-== Potential Partners ==
-
-WHO WANTS TO HELP???
+## Potential Partners
 
 I think that we can get a lot of initial traction for this.
 
-
 Public call for support for commercial companies
 Can they help to create/support an FFI incubator?
+WHO WANTS TO HELP???
 
 Who might be able to help: RevNext?  Astrid?  Nijenrode?  ACE Venture Lab?  Companies?
 We need to find partners of all kinds
@@ -128,7 +126,7 @@ Build the suppliers that you want to hire in
 Good PR?
 
 
-== TODO List ==
+## TODO List
 
 - Create a webpage 
 - Register a legal entity
@@ -137,11 +135,11 @@ Good PR?
 - Choose an ANBI Stichting for the FFI to support
 - Decide who to ask to join our Advisory Board
 
-== Actions already taken ==
+## Actions already taken ==
 
-3 Feb
+### 3 Feb
 0) Announce idea at Bilderberg Conference
-5 Feb
+### 5 Feb
 1) Create a Gitlab repo for these notes
 2) Starting to setup meetings/calls with strategic partners and volunteers
 3) Brainstorm about a working name for the Incubator
@@ -152,7 +150,7 @@ Good PR?
 8) Email notary to prepare for registration w/ KvK
 9) Register Github organization + Twitter handle + Slack account
 10) Reject the idea of using Slack.  We'll use RocketChat (in a separate VM instead).
-6 Feb
+### 6 Feb
 11) Setup RocketChat in a new VM
 12) 2 physical meetings and 1 phone call with potential partners
 13) Brainstorm about what kindof Foundation (ANBI Stichting) Nonprofit Ventures will want to support.  We think that it should perhaps have something to do with (social) entrepreneurship.
