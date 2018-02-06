@@ -1,4 +1,4 @@
-# 'Social Ventures' - A Non-Profit Company Incubator
+# 'Nonprofit Ventures' - A Non-Profit Company Incubator
 
 These are raw brainstorm notes.  Please bear with us..  this is a Work In Progress!
 
