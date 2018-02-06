@@ -1,4 +1,4 @@
-# Nonprofit Companies?
+# Nonprofit Companies
 
 Business is the problem.  Business can also be the solution.
 The solution to many societal and global problems is rooted in social entrepreneurship - decentralized and human-based
