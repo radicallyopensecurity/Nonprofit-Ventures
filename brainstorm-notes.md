@@ -126,15 +126,7 @@ Build the suppliers that you want to hire in
 Good PR?
 
 
-## TODO List
+## Links to other pages
 
-- Create a webpage 
-- Register a legal entity
-- Create a logo and house style
-- Rally potential partners of various kinds
-- Choose an ANBI Stichting for the FFI to support
-- Decide who to ask to join our Advisory Board
-
-## Actions already taken
-
-[List of Actions Taken](actions-taken.md)
+* [TODO List](todo-list.md)
+* [List of Actions Taken](actions-taken.md)
