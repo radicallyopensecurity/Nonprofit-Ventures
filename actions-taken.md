@@ -20,5 +20,5 @@
 13. 2 physical meetings and 1 phone call with potential partners
 14. Brainstorm about what kindof Foundation (ANBI Stichting) Nonprofit Ventures will want to support.  We think that it should perhaps have something to do with (social) entrepreneurship.
 15. Starting to think about who we should ask to join the Social Ventures advisory board
-16. Edit brainstorm notes and start converting them into Github Markdown
+16. Edit/refactor brainstorm notes and convert into Github Markdown.  Move root to README.md.
 
