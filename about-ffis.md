@@ -12,7 +12,7 @@ It's a choice to support social entrepreneurs and local initiatives
 * Affect change via purchasing - not donations or subsidies
 
 * Companies want non-profit suppliers.
-** (Clarification by John: companies want suppliers where 
+  * (Clarification by John: companies want suppliers where 
 they know the supplier works based on situation where the quality/correctness of
 the product is key to the way the supplier does business, and not the urge to 
 make as much money as possible off the product, or the pressure of share holders
