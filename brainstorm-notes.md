@@ -137,6 +137,8 @@ Good PR?
 
 ## Actions already taken
 
+(It's useful to document this, because this list may eventually become a part of the curriculum we're teaching.)  Similar to ROS, the Incubator itself should self as a case-study for how someone can do it.   :-)
+
 ### 3 Feb
 1. Announce idea at Bilderberg Conference
 ### 5 Feb
@@ -156,4 +158,3 @@ Good PR?
 14. Brainstorm about what kindof Foundation (ANBI Stichting) Nonprofit Ventures will want to support.  We think that it should perhaps have something to do with (social) entrepreneurship.
 15. Starting to think about who we should ask to join the Social Ventures advisory board
 
-(It's useful to document this, because this list may eventually become a part of the curriculum we're teaching.)  Similar to ROS, the Incubator itself should self as a case-study for how someone can do it.   :-)
