@@ -1,10 +1,10 @@
 # Case study: Radically Open Security
 
+![Radically Open Security logo](https://radicallyopensecurity.com/images/ros-logo.gif "ROS Logo")
+
 ## What is ROS?
 
 * [Radically Open Security](https://radicallyopensecurity.com) is the world's first nonprofit computer security consultancy company
-
-![Radically Open Security logo](https://radicallyopensecurity.com/images/ros-logo.gif "ROS Logo")
 
 ## The Way Forward 
 
