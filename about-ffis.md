@@ -5,14 +5,14 @@ The solution to many societal and global problems is rooted in social entreprene
 
 ## Why Nonprofit Companies?
 
-The purchasing power of companies and governments is a powerful force
+* The purchasing power of companies and governments is a powerful force
 Companies vote with their Euros for the world that they want to live in
 It's a choice to support social entrepreneurs and local initiatives
 
-Affect change via purchasing - not donations or subsidies
+* Affect change via purchasing - not donations or subsidies
 
-Companies want non-profit suppliers.
-(Clarification by John: companies want suppliers where 
+* Companies want non-profit suppliers.
+** (Clarification by John: companies want suppliers where 
 they know the supplier works based on situation where the quality/correctness of
 the product is key to the way the supplier does business, and not the urge to 
 make as much money as possible off the product, or the pressure of share holders
