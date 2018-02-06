@@ -1,21 +1,19 @@
 # A Nonprofit Company Incubator
 
-The same principles also apply to startup financing
-You can use your capital to bootstrap and support non-profit companies (FFIs)
-That way you can help to build the supplier that you want the world to have
-Venture Capital embeds the wrong values from the very beginning
+* Venture Capital embeds the wrong values into startups from the very beginning
+* Non-profit companies (FFIs) need to bootstrap themselves - this requires sweat equity and launching customers
+* Companies can pre-purchase services to help launch the supplier that you want the world to have
+* A Nonprofit Company Incubator helps aspiring social entrepreneurs, by providing guidance, community, and launching customers
+* It's essentially B2B crowdfunding
 
-Gives social entrepreneurs community and financial support and guidance building companies with non-profit values
-Interest-free loans?   (B2B crowdfunding is better)
-
-(Clarification by John: the ROS way of doing business can grow into a FFI supporting platform methodology. 
+  * Clarification: the ROS way of doing business can grow into a FFI supporting platform methodology. 
 We bring together in one place: companies in need of a service on one end of the 
 spectrum, and people/companies/professionals who can deliver that service on the 
 other end of the spectrum. A good FFI building on the platform solely exist to 
 facilitate the delivery of the service (including the entire process from 
 quote-writing to invoicing and payments).  Most of the work a good FFI does will be curating both suppliers and consumers of 
 a service, and making this as frictionless as possible, with automation and modern 
-software facilitating the drudgery) 
+software facilitating the drudgery 
 
 Why do companies want to get involved?
 * Build the suppliers that you want to hire in
