@@ -108,6 +108,7 @@ Steps to take:
 - Create a logo and house style
 - Rally potential partners of various kinds
 - Setup RocketChat in a new VM
+- Choose an ANBI Stichting for the FFI to support
 
 The incubator:
 - The incubator itself needs to embody the principles that we'd be teaching in the curriculum
@@ -124,6 +125,7 @@ The incubator:
 Non-profit company principles:
 - Non-profit (FFI)
 - Decentralized management(?), ala Holocracy/Teal
+- Choose an ANBI Stichting to support that is close in purpose to the purpose of the FFI being started
 
 == Actions already taken ==
 
