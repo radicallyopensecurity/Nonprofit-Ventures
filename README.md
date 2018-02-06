@@ -2,7 +2,7 @@
 
 These are raw brainstorm notes.  Please bear with us..  this is a Work In Progress!
 
-* [Nonprofit Companies?](about-ffis.md)
+* [Nonprofit Companies](about-ffis.md)
   * [Case Study: Radically Open Security](case-study-ros.md)
 * [Nonprofit Company Incubator](nonprofit-company-incubator.md)
   * [Business Model](business-model.md)
