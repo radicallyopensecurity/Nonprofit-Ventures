@@ -8,8 +8,11 @@ If you want to assist with any of these TODO items, send an email to melanie@rad
 * Choose an ANBI Stichting for the FFI to support
 * Decide who to ask to join our Advisory Board
 * Brainstorm format + content for the "FFI Startup Bootcamp"
-* Create a list of "customers" = companies/organizations/government that would be interested in purchasing from new FFIs
-* Create a list of aspiring social entrepreneurs who want to participate in the 1st edition of the Startup Bootcamp.
+
+* Find helpers = folks who can help us to get this all setup
+
+* Find "customers" = companies/organizations/government that would be interested in purchasing from new FFIs
+* Find aspiring social entrepreneurs = who want to participate in the 1st edition of the Startup Bootcamp
 * Find matches between the customers and social entrepreneurs
 
 ## Ideas About Who We Can Approach
