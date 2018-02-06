@@ -1,4 +1,4 @@
-# Why We Need A Nonprofit Company Incubator
+# A Nonprofit Company Incubator
 
 The same principles also apply to startup financing
 You can use your capital to bootstrap and support non-profit companies (FFIs)
