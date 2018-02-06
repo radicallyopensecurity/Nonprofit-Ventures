@@ -7,7 +7,7 @@ We are looking for help to start a Nonprofit Company Incubator!
 * Anyone with skills and enthusiasm who can lend us a helping hand
 * Commercial companies (who want to purchase services from nonprofit vendors)
 * Aspiring social entrepreneurs who want to join our 1st "Startup Bootcamp"
-* We need partners of all kinds!   :-)
+* We need partners of all kinds!  
 
 ## Ideas About Who To Approach
 
