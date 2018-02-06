@@ -1,4 +1,6 @@
-# Brainstorm Notes for 'Social Ventures' - the Non-Profit Company Incubator
+'Social Ventures' - A Non-Profit Company Incubator
+
+These are raw brainstorm notes.  Please bear with us..  this is a Work In Progress!
 
 * [Nonprofit Companies?](about-ffis.md)
 * [Case Study: Radically Open Security](case-study-ros.md)
