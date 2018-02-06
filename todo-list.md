@@ -5,7 +5,6 @@ If you want to assist with any of these TODO items, send an email to melanie@rad
 * Create a webpage 
 * Register a legal entity
 * Create a logo and house style
-* Rally potential partners of various kinds
 * Choose an ANBI Stichting for the FFI to support
 * Decide who to ask to join our Advisory Board
 * Brainstorm format + content for the "FFI Startup Bootcamp"
@@ -13,8 +12,9 @@ If you want to assist with any of these TODO items, send an email to melanie@rad
 * Create a list of aspiring social entrepreneurs who want to participate in the 1st edition of the Startup Bootcamp.
 * Find matches between the customers and social entrepreneurs
 
-
 ## Ideas About Who We Can Approach
+
+We want to rally potential partners of various kinds.  Here's a few ideas:
 
 * Companies (RevNext?)
 * Incubators (ACE Venture Lab?)
