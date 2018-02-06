@@ -1,6 +1,6 @@
 # TODO List
 
-If you want to assist with any of these TODO items, please send an email to melanie@radicallyopensecurity.com.
+If you want to assist with any of these TODO items, please join us in our [chatroom](https://chat.nonprofit.ventures) and/or send an email to melanie@radicallyopensecurity.com.
 
 * Create a webpage 
 * Register a legal entity
