@@ -1,5 +1,7 @@
 # TODO List
 
+If you want to assist with any of these TODO items, please send an email to melanie@radicallyopensecurity.com.
+
 * Create a webpage 
 * Register a legal entity
 * Create a logo and house style
