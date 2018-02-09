@@ -19,7 +19,9 @@ If you want to assist with any of these TODO items, send an email to melanie@rad
 
 We want to rally potential partners of various kinds.  Here's a few ideas:
 
-* Companies (RevNext?)
-* Incubators (ACE Venture Lab?)
-* Universities (Nijenrode?)
-* Individuals (Astrid?)
+* Companies - RevNext
+* Incubators - ACE Venture Lab
+* Universities - Nijenrode
+* Individuals - Astrid, Serge, Joan
+* Social Entrepreneurship groups - Social-enterprise.nl, Impact Hub, Maatschappelijk Verantwoord Ondernemen (MVO)
+* Dutch political parties (Groenlinks, D66, etc..)
