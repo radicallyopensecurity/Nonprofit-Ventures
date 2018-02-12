@@ -24,4 +24,5 @@
 ### 12-18 Feb
 17. 2 physical meetings scheduled for this week so far
 18. Lots more email correspondence to setup calls/meetings
-19. Ping the notary about setting up a new FFI
+19. Received list of questions from Notary about setting up a new FFI
+20. Brainstorm about the exact legal construction that we want to setup.
