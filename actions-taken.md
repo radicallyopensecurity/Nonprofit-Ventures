@@ -26,7 +26,7 @@
 18. Lots more email correspondence to setup calls/meetings is happening
 19. Talk with Notary about setting up the new FFI (and Stichting) - inquire about the costs
 20. Brainstorm about the exact legal construction that we want to setup
-21. Approach potential bestuursleden for the Stichting
+21. Approach potential bestuursleden for the Stichting (for simplicity's sake, John and Andy are first choice)
 22. Brainstorm about who should be the Director of Nonprofit Ventures (decision: probably Melanie, for now)
 23. Ask a fiscalist about the timing of negotiations w/ the Belastingdienst about the FFI status
 
