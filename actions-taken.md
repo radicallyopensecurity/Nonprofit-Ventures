@@ -21,8 +21,14 @@
 14. Brainstorm about what kindof Foundation (ANBI Stichting) Nonprofit Ventures will want to support.  We think that it should perhaps have something to do with (social) entrepreneurship.
 15. Starting to think about who we should ask to join the Social Ventures advisory board
 16. Edit/refactor brainstorm notes and convert into Github Markdown.  Move root to README.md.
-### 12-18 Feb
-17. 2 physical meetings scheduled for this week so far
-18. Lots more email correspondence to setup calls/meetings
-19. Received list of questions from Notary about setting up a new FFI
-20. Brainstorm about the exact legal construction that we want to setup.
+### 12 Feb
+17. 2 physical meetings are scheduled for this week so far
+18. Lots more email correspondence to setup calls/meetings is happening
+19. Talk with Notary about setting up the new FFI (and Stichting) - inquire about the costs
+20. Brainstorm about the exact legal construction that we want to setup
+21. Approach potential bestuursleden for the Stichting
+22. Brainstorm about who should be the Director of Nonprofit Ventures (decision: probably Melanie, for now)
+23. Ask a fiscalist about the timing of negotiations w/ the Belastingdienst about the FFI status
+
+
+
