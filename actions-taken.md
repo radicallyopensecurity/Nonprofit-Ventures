@@ -15,10 +15,12 @@
 9. Email notary to prepare for registration w/ KvK
 10. Register Github organization + Twitter handle + Slack account
 11. Reject the idea of using Slack.  We'll use RocketChat (in a separate VM instead).
-### 6-9 Feb
+### 6-11 Feb
 12. Setup RocketChat in a new VM
 13. 3 physical meetings and 2 phone calls with potential partners
 14. Brainstorm about what kindof Foundation (ANBI Stichting) Nonprofit Ventures will want to support.  We think that it should perhaps have something to do with (social) entrepreneurship.
 15. Starting to think about who we should ask to join the Social Ventures advisory board
 16. Edit/refactor brainstorm notes and convert into Github Markdown.  Move root to README.md.
-
+### 12-18 Feb
+17. 2 physical meetings scheduled for this week so far
+18. Lots more email correspondence to setup calls/meetings
