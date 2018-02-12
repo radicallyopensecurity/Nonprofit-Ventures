@@ -8,7 +8,8 @@ If you want to assist with any of these TODO items, send an email to melanie@rad
     * If we reuse an existing one, which one?
     * If we create a new Stichting, who would be on the bestuur?
   * Who would be the director of Nonprofit Ventures BV?  Me?  Someone else?
-  * Once we can answer these questions, we can register the legal entity
+  * Should we negotiate w/ the Belastingdienst about Nonprofit Ventures FFI status (and the allowed cash buffer) before or after drawing up the articles of incorporation?
+  * Once we can answer these questions, (and talk to the Belastingdienst if necessary), we can register the legal entity
   
 * Setup a bank account for the BV
 
