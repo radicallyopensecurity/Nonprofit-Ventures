@@ -29,6 +29,6 @@
 21. Approach potential bestuursleden for the Stichting (for simplicity's sake, John and Andy are first choice)
 22. Brainstorm about who should be the Director of Nonprofit Ventures (decision: probably Melanie, for now)
 23. Ask a fiscalist about the negotiations w/ the Belastingdienst about the FFI status
-24. Start creating alignment with existing (social) entrepreneurship communities (Impact Hub + ACE Venture Lab)
+24. Creating alignment with existing (social) entrepreneurship communities (Impact Hub + ACE Venture Lab)
 
 
