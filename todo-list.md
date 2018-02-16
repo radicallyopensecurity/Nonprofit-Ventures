@@ -26,8 +26,8 @@ If you want to assist with any of these TODO items, send an email to melanie@rad
 
 * Find "customers" = companies/organizations/government that would be interested in purchasing from new FFIs
 * Find aspiring social entrepreneurs = who want to participate in the 1st edition of the Startup Bootcamp
+  * We can also try to convince existing companies to become FFIs
 * Find matches between the customers and social entrepreneurs
-* We can also try to convince existing companies to become FFIs
 
 ## Create the content
 
