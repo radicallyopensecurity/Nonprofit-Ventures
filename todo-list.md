@@ -35,12 +35,6 @@ If you want to assist with any of these TODO items, send an email to melanie@rad
 * Find trainers to teach the bootcamp content
   * (Project Together might be able to donate some trainers)
 
-* Other possible ways to get people more involved:
-  * Speed dating between corporate CEOs and social entrepreneurs, and/or pitches, brainstorming together, etc..
-  * Long term coaching
-    * Project Together has open-sourced their coaching methods - a coach calls once per month to hold entrepreneurs accountable
-  * (But I don't necessarily want to commit to doing more than organizing a Startup Bootcamp right now.)
-  
 ## Ideas About Who We Can Approach
 
 We want to rally potential partners of various kinds.  Here's a few ideas:
