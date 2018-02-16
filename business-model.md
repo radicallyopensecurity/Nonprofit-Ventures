@@ -38,3 +38,9 @@ The incubator:
 * Perhaps sharing our open-source infra (and helping them to get started with using it) would also be part of the value proposition of the FFI Incubator.
 * Finding a source of interest-free loans may be helpful for cashflow while growing
 
+Other possible ways to get people more involved:
+* Speed dating between corporate CEOs and social entrepreneurs, and/or pitches, brainstorming together, etc..
+* Long term coaching
+  * Project Together has open-sourced their coaching methods - a coach calls once per month to hold entrepreneurs accountable
+* (But I don't necessarily want to commit to doing more than organizing a Startup Bootcamp right now.)
+  
