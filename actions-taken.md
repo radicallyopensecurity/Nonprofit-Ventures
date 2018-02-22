@@ -22,7 +22,7 @@
 15. Starting to think about who we should ask to join the Social Ventures advisory board
 16. Edit/refactor brainstorm notes and convert into Github Markdown.  Move root to README.md.
 ### 12-18 Feb
-17. 2 physical meetings are scheduled for this week so far
+17. 2 physical meetings this week
 18. Lots more email correspondence to setup calls/meetings is happening
 19. Talk with Notary about setting up the new FFI (and Stichting) - inquire about the costs
 20. Brainstorm about the exact legal construction that we want to setup (probably the same construction as ROS)
@@ -30,5 +30,9 @@
 22. Brainstorm about who should be the Director of Nonprofit Ventures (decision: probably Melanie, for now)
 23. Ask a fiscalist about the negotiations w/ the Belastingdienst about the FFI status
 24. Creating alignment with existing (social) entrepreneurship communities (Impact Hub + ACE Venture Lab)
-
+### 19-25 Feb
+25. All new bestuursleden of Stichting NPV + Director is commited to participate
+26. Register the BV and Stichting with the KvK via notary, now that the structure and people are clear
+27. Gave ROS + NPV presentation at networking event - lots of interest!
+28. Planning lots of meetings and calls.  Als responding to LinkedIn messages.
 
