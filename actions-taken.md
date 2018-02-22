@@ -31,7 +31,7 @@
 23. Ask a fiscalist about the negotiations w/ the Belastingdienst about the FFI status
 24. Creating alignment with existing (social) entrepreneurship communities (Impact Hub + ACE Venture Lab)
 ### 19-25 Feb
-25. All new bestuursleden of Stichting NPV + Director is commited to participate
+25. All new bestuursleden of Stichting NPV + Director are now commited to participate
 26. Register the BV and Stichting with the KvK via notary, now that the structure and people are clear
 27. Gave ROS + NPV presentation at networking event - lots of interest!
 28. Planning lots of meetings and calls.  Also responding to LinkedIn messages.
