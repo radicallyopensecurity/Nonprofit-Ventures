@@ -35,4 +35,5 @@
 26. Register the BV and Stichting with the KvK via notary, now that the structure and people are clear
 27. Gave ROS + NPV presentation at networking event - lots of interest!
 28. Planning lots more meetings and calls.  Also responding to LinkedIn messages.
+29. Reach out to graphic designer for basic design of logo/house style/website.
 
