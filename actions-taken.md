@@ -36,4 +36,8 @@
 27. Gave ROS + NPV presentation at networking event - lots of interest!
 28. Planning lots more meetings and calls.  Also responding to LinkedIn messages.
 29. Reach out to graphic designer for basic design of logo/house style/website.
+### 26 Feb-4 Mar
+30. Initial brainstorm version of draft curriculum for startup bootcamp online
+31. Phone call w/ more incubators to possibly partner with
+
 
