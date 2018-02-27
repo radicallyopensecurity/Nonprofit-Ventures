@@ -32,12 +32,14 @@
 24. Creating alignment with existing (social) entrepreneurship communities (Impact Hub + ACE Venture Lab)
 ### 19-25 Feb
 25. New bestuursleden of Stichting NPV + Director NPV BV (FFI) are now commited to participate
-26. Register the BV and Stichting with the KvK via notary, now that the structure and people are clear
+26. Begin registration process of the BV and Stichting with the KvK via notary, now that the structure and people are clear
 27. Gave ROS + NPV presentation at networking event - lots of interest!
 28. Planning lots more meetings and calls.  Also responding to LinkedIn messages.
 29. Reach out to graphic designer for basic design of logo/house style/website.
 ### 26 Feb-4 Mar
-30. Initial brainstorm version of draft curriculum for startup bootcamp online
+30. Initial brainstorm version of draft curriculum for FFI "startup bootcamp"
 31. Phone call w/ more incubators to possibly partner with
+32. Finalize details in the 'aktes van oprichting' (Stichting and BV) with the Notary, and transfer "start capital" for the new BV.  (ROS BV is giving Nonprofit Ventures BV an interest-free loan of 2000 Euros, for the starting capital.)
+
 
 
