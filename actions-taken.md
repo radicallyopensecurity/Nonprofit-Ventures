@@ -36,11 +36,12 @@
 27. Gave ROS + NPV presentation at networking event - lots of interest!
 28. Planning lots more meetings and calls.  Also responding to LinkedIn messages.
 29. Reach out to graphic designer for basic design of logo/house style/website.
+30. Setup ROS-internal RocketChat channel to coordinate NPV work
 ### 26 Feb-4 Mar
-30. Initial brainstorm version of draft curriculum for FFI "startup bootcamp" on Github
-31. Phone call w/ more incubators to possibly partner with
-32. Finalize details of the 'aktes van oprichting' (Stichting and BV) with the Notary, and transfer "start capital" for the new BV.  (ROS BV is giving Nonprofit Ventures BV an interest-free loan of 2000 Euros, for the starting capital.)
-33. Communicate with graphic designer about requirements for logo/house style/website.
-34. Planning more call and meetings
+31. Initial brainstorm version of draft curriculum for FFI "startup bootcamp" on Github
+32. Phone call w/ more incubators to possibly partner with
+33. Finalize details of the 'aktes van oprichting' (Stichting and BV) with the Notary, and transfer "start capital" for the new BV.  (ROS BV is giving Nonprofit Ventures BV an interest-free loan of 2000 Euros, for the starting capital.)
+34. Communicate with graphic designer about requirements for logo/house style/website.
+35. Planning more call and meetings
 
 
