@@ -4,7 +4,6 @@ If you want to assist with any of these TODO items, send an email to melanie@rad
 
 ## Setting up the legal entity
 
-* Ping Andy about rescheduling that Skype call
 * Talk to Belastingdienst about Nonprofit Ventures FFI status (and the allowed cash buffer) before/after drawing up the articles of incorporation
 * Register the Stichting and BV (FFI) via the Notary
   
@@ -12,7 +11,6 @@ If you want to assist with any of these TODO items, send an email to melanie@rad
 
 * Setup a bank account for the BV
 
-* Internal RC channel at ROS to discuss the incubator
 * A mailing list for interested partners?
 
 * Create a webpage 
