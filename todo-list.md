@@ -4,8 +4,8 @@ If you want to assist with any of these TODO items, send an email to melanie@rad
 
 ## Setting up the legal entity
 
-* Talk to Belastingdienst about Nonprofit Ventures FFI status (and the allowed cash buffer) before/after drawing up the articles of incorporation
 * Register the Stichting and BV (FFI) via the Notary
+* Talk to Belastingdienst about Nonprofit Ventures FFI status (and the allowed cash buffer) 
   
 ## Equipping the entity with necessary things
 
