@@ -23,7 +23,7 @@
 16. Edit/refactor brainstorm notes and convert into Github Markdown.  Move root to README.md.
 ### 12-18 Feb
 17. 2 physical meetings this week
-18. Lots more email correspondence to setup calls/meetings is happening
+18. Lots more email correspondence to setup calls/meetings
 19. Talk with Notary about setting up the new FFI (and Stichting) - inquire about the costs
 20. Brainstorm about the exact legal construction that we want to setup (probably the same construction as ROS)
 21. Approach potential bestuursleden for the Stichting (for simplicity's sake, John and Andy are first choice)
@@ -37,9 +37,10 @@
 28. Planning lots more meetings and calls.  Also responding to LinkedIn messages.
 29. Reach out to graphic designer for basic design of logo/house style/website.
 ### 26 Feb-4 Mar
-30. Initial brainstorm version of draft curriculum for FFI "startup bootcamp"
+30. Initial brainstorm version of draft curriculum for FFI "startup bootcamp" on Github
 31. Phone call w/ more incubators to possibly partner with
-32. Finalize details in the 'aktes van oprichting' (Stichting and BV) with the Notary, and transfer "start capital" for the new BV.  (ROS BV is giving Nonprofit Ventures BV an interest-free loan of 2000 Euros, for the starting capital.)
-
+32. Finalize details of the 'aktes van oprichting' (Stichting and BV) with the Notary, and transfer "start capital" for the new BV.  (ROS BV is giving Nonprofit Ventures BV an interest-free loan of 2000 Euros, for the starting capital.)
+33. Communicate with graphic designer about requirements for logo/house style/website.
+34. Planning more call and meetings
 
 
