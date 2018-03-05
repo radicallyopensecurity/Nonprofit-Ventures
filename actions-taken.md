@@ -46,5 +46,5 @@
 36. Invited visit to Dutch political event
 37. Brainstorming about management (and philosophical) ideas that can go into the NPV "startup bootcamp" curriculum
 ### 5-11 Mar
-38. Planning more call and meetings
+38. Planning more calls and meetings
 
