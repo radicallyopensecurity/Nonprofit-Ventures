@@ -40,8 +40,11 @@
 ### 26 Feb-4 Mar
 31. Initial brainstorm version of draft curriculum for FFI "startup bootcamp" on Github
 32. Phone call w/ more incubators to possibly partner with
-33. Finalize details of the 'aktes van oprichting' (Stichting and BV) with the Notary, and transfer "start capital" for the new BV.  (ROS BV is giving Nonprofit Ventures BV an interest-free loan of 2000 Euros, for the starting capital.)
-34. Communicate with graphic designer about requirements for logo/house style/website.
+33. Finalize details of the 'aktes van oprichting' (Stichting and BV) with the Notary, and agree upon the amount of "start capital" for the new BV.  (ROS BV is giving Nonprofit Ventures BV an interest-free loan of 2000 Euros, for the starting capital.)
+34. Physical kick-off meeting with graphic designer, to discuss requirements for logo/house style/website.
 35. Planning more call and meetings
-
+36. Invited visit to Dutch political event
+37. Brainstorming about management (and philosophical) ideas that can go into the NPV "startup bootcamp" curriculum
+### 5-11 Mar
+38. Planning more call and meetings
 
