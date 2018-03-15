@@ -47,4 +47,6 @@
 37. Brainstorming about management (and philosophical) ideas that can go into the NPV "startup bootcamp" curriculum
 ### 5-11 Mar
 38. Planning more calls and meetings
+39. Initial brainstorm session with graphic designer about the logo and house style
+
 
