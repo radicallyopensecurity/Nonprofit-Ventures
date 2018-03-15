@@ -48,5 +48,6 @@
 ### 5-11 Mar
 38. Planning more calls and meetings
 39. Initial brainstorm session with graphic designer about the logo and house style
-
-
+### 12-18 Mar
+40. Internal brainstorm session to further define milestones and plan
+41. Ping graphic designer about receiving initial logo sketches
