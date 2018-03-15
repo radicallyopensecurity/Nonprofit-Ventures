@@ -12,7 +12,7 @@ These are raw brainstorm notes.  Please bear with us..  this is a Work In Progre
    * [Version 0.4](0.2_npf_the-business-model-canvas.pdf)
    * [Template](the-business-model-canvas.pdf)
    * [Manual](the-business-model-canvas-instruction-manual.pdf)
-  * [List of Actions Taken](actions-taken.md)
+* [List of Actions Taken](actions-taken.md)
 * [Potential Partners](potential-partners.md)
   * [How To Help?](how-to-help.md)
   * [TODO List](todo-list.md)
