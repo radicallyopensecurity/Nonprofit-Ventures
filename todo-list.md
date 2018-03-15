@@ -32,6 +32,7 @@ Time goal in parenthese.
 * Create a first buisness model canvas / value proposition to be tested (April 2018)
 * Survey and map existing incubation/acceleration landscape in NL (May 2018)
 * Test value proposition with entrepeneurs (participants) / firms (customers) to test value proposition. Learn -> What is it that they really need that they are not getting right now? (June 2018)
+* Have a full plan for the prototype and clear business plan (July 2018)
 * Post call for applications for aspiring social entrepreneurs = who want to participate in the 1st edition of the Startup Bootcamp (July 2018)
 * Find trainers to teach the bootcamp content, Project Together might be able to provide some trainers (August 2018)
 * Select applications for social entrepreneurs for the 1st prototype (September 2018)
