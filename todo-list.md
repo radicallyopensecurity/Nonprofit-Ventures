@@ -13,6 +13,7 @@ Time goal in parenthese.
 
 * A mailing list for interested partners? (April 2018)
 * Create a logo and house style (April 2018)
+* Have physical team meeting to come up with vision & mission, processes and product approach (May 2018)
 * Create a webpage (May 2018)
 * Setup a bank account for the BV (May 2018)
 * Choose an ANBI Stichting for the FFI to support (July 2018)
