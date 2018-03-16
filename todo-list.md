@@ -28,8 +28,8 @@ Time goal in parenthese.
 
 ## Create the content/Develop product
 
-* Brainstorm format + content for the "FFI Startup Bootcamp" (March 2018)
-* Create a first buisness model canvas / value proposition to be tested (April 2018)
+* Brainstorm and feedback format + content for the "FFI Startup Bootcamp" (March 2018)
+* Iterate and feedback buisness model canvas / value proposition to be tested (April 2018)
 * Survey and map existing incubation/acceleration landscape in NL (May 2018)
 * Test value proposition with entrepeneurs (participants) / firms (customers) to test value proposition. Learn -> What is it that they really need that they are not getting right now? (June 2018)
 * Run 1 day prototype (June 2018)
