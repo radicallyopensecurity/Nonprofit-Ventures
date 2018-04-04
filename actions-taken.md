@@ -51,3 +51,18 @@
 ### 12-18 Mar
 40. Internal brainstorm session to further define milestones and plan
 41. Ping graphic designer about receiving initial logo sketches
+42. Mentioned NPV at DevOpsPro conference in Vilnius, Lithuania
+### 19-25 Mar
+43. 5 physical meetings related to NPV
+44. Kickoff of NPV "Expert Group" (with 5 others) in Rotterdam
+45. Spoke with a journalist with Management Team (MT) magazine
+46. Worked on the text of the 'Aktes van Oprichting' for NPV BV and NPV Stichting with the notary
+### 26 Mar-1 Apr
+47. Pinged graphic designer again about logo sketches.  She's unable to do the work, so I have to find a new graphic designer.
+48. Finalized the text of the 'Aktes van Oprichting' for NPV BV and NPV Stichting with the notary
+### 2-8 Apr
+49. Registered Nonprofit Ventures Stichting and Nonprofit Ventures BV with the Dutch Chamber of Commerce 
+HAPPY 0th BIRTHDAY TO NONPROFIT VENTURES!!!!!!   :-D :-D :-D
+50. Start setting up bank accounts for NPV Stichting + BV with Rabobank
+51. Interview on Radio 1 about Nonprofit Ventures - to celebrate its official creation! 
+
