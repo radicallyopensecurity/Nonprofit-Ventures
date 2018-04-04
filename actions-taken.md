@@ -62,7 +62,9 @@
 48. Finalized the text of the 'Aktes van Oprichting' for NPV BV and NPV Stichting with the notary
 ### 2-8 Apr
 49. Registered Nonprofit Ventures Stichting and Nonprofit Ventures BV with the Dutch Chamber of Commerce 
+
 HAPPY 0th BIRTHDAY TO NONPROFIT VENTURES!!!!!!   :-D :-D :-D
+
 50. Start setting up bank accounts for NPV Stichting + BV with Rabobank
 51. Interview on Radio 1 about Nonprofit Ventures - to celebrate its official creation! 
 
