@@ -53,7 +53,7 @@
 41. Ping graphic designer about receiving initial logo sketches
 42. Mentioned NPV at DevOpsPro conference in Vilnius, Lithuania
 ### 19-25 Mar
-43. 5 physical meetings related to NPV
+43. 5 physical meetings related to NPV - also with some potential advisory board members
 44. Kickoff of NPV "Expert Group" (with 5 others) in Rotterdam
 45. Spoke with a journalist with Management Team (MT) magazine
 46. Worked on the text of the 'Aktes van Oprichting' for NPV BV and NPV Stichting with the notary
