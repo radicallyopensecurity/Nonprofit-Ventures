@@ -6,12 +6,12 @@ Time goal in parenthese.
 
 ## Setting up the legal entity
 
-* Register the Stichting and BV (FFI) via the Notary (May 2018)
+* DONE: Register the Stichting and BV (FFI) via the Notary (May 2018)
 * Talk to Belastingdienst about Nonprofit Ventures FFI status (and the allowed cash buffer) (June 2018)
   
 ## Equipping the entity with necessary things
 
-* A mailing list for interested partners? (April 2018)
+* A mailing list for interested partners (April 2018)
 * Create a logo and house style (April 2018)
 * Have physical team meeting to come up with vision & mission, processes and product approach (May 2018)
 * Create a webpage (May 2018)
