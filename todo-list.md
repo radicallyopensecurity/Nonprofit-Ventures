@@ -6,7 +6,6 @@ Time goal in parenthese.
 
 ## Setting up the legal entity
 
-* DONE: Register the Stichting and BV (FFI) via the Notary (May 2018)
 * Talk to Belastingdienst about Nonprofit Ventures FFI status (and the allowed cash buffer) (June 2018)
   
 ## Equipping the entity with necessary things
@@ -28,7 +27,7 @@ Time goal in parenthese.
 
 ## Create the content/Develop product
 
-* Brainstorm and feedback format + content for the "FFI Startup Bootcamp" (March 2018)
+* Brainstorm and feedback format + content for the "FFI Startup Bootcamp" (Ongoing)
 * Iterate and feedback buisness model canvas / value proposition to be tested (April 2018)
 * Survey and map existing incubation/acceleration landscape in NL (May 2018)
 * Test value proposition with entrepeneurs (participants) / firms (customers) to test value proposition. Learn -> What is it that they really need that they are not getting right now? (June 2018)
