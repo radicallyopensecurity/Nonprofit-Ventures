@@ -1,4 +1,4 @@
-# Brainstorming about Course Material Content
+# Nonprofit Entrepreneurship: Course Materials
 
 Here are some rough ideas about how to structure the actual content of the course itself..
 
