@@ -17,7 +17,7 @@
 * [Starting Out](business-and-entrepreneurship/starting-out.md)
   * [Business Model Canvas](business-and-entrepreneurship/business-model-canvas.md)
 * [Scaling Up](business-and-entrepreneurship/scaling-up.md)
-* [Business Methodologies](business-and-entrepreneurship/methodologies.md)
+* [Startup Methodologies](business-and-entrepreneurship/methodologies.md)
   * [Lean Startup](business-and-entrepreneurship/lean-startup.md)
 * [Management Methodologies](business-and-entrepreneurship/management-methodologies.md)
 * [Dealing with Stress](philosophy/dealing-with-stress.md)
