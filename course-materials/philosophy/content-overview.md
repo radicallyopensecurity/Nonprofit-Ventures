@@ -6,8 +6,7 @@
 * Spirituality (in a non-religious sense)
 * Self-care/self-love
 * Balance
-* Time management
-* Morning routines
+* Time management (GTD, scheduling, morning routines, etc..)
 * Empathy/Nonviolent communication
 * How to lead a meaningful life
 * etc..
