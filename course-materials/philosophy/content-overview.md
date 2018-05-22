@@ -14,7 +14,7 @@
   * Spirituality (in a non-religious sense)
   * Self-care/self-love
   * Balance
-  * Synchronicity
+  * Planning vs. Synchronicity
   * Time management (GTD, scheduling, morning routines, etc..)
   * Empathy/Nonviolent communication
   * How to lead a meaningful life
