@@ -23,13 +23,13 @@
   * [Kanban](business-and-entrepreneurship/kanban.md)
   * [Holocracy](business-and-entrepreneurship/holocracy.md)
   * [Teal](business-and-entrepreneurship/teal.md)
-* [Relevant Reading](business-and-entrepreneurship/relevant-reading.md)
+* [More Reading](business-and-entrepreneurship/relevant-reading.md)
 
 ## Philosophy:
 * [Content Overview](philosophy/content-overview.md)
 * [Dealing with Stress](philosophy/dealing-with-stress.md)
 * [Planning vs. Synchronicity](philosophy/planning-vs-synchronicity.md)
-* [Relevant Reading](philosophy/relevant-reading.md)
+* [More Reading](philosophy/relevant-reading.md)
 
 ## Notes:
 * [Stuff I want to read](notes/stuff-i-want-to-read.md)
