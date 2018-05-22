@@ -12,10 +12,11 @@
 * A few other things when starting:
   * It's all about the team (start with A+ players)
   * Quality is EVERYTHING! (go the extra mile to make customers ecstatic)
-  * It's easier to start with a problem than with a solution
-    * Starting with a solution = "I have a hammer, let's find nails"
-  * It's cheaper/easier to bootstrap with services than products
+  * It's cheaper/easier to bootstrap services than products
 
-* Questions to ask yourself:
-  * What pain is my company addressing?
-  * Who is willing to pay to have this pain lessened?
+* It's easier to start with a problem than with a solution
+  * Starting with a solution = "I have a hammer, let's find nails"
+  * Starting with a problem = asking yourself the following questions:
+    * What pain is my company addressing?
+    * Who will happily pay to have this pain lessened?
+
