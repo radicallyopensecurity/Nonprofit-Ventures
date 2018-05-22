@@ -18,11 +18,11 @@
 * [Scaling Up](business-and-entrepreneurship/scaling-up.md)
 * [Methodologies](business-and-entrepreneurship/methodologies.md)
   * [Lean Startup](business-and-entrepreneurship/lean-startup.md)
+* [Dealing with Stress](philosophy/dealing-with-stress.md)
 * [Relevant Reading](business-and-entrepreneurship/relevant-reading.md)
 
 ## Philosophy:
 * [Content Overview](philosophy/content-overview.md)
-* [Dealing with Stress](philosophy/dealing-with-stress.md)
 * [Planning vs. Synchronicity](philosophy/planning-vs-synchronicity.md)
 * [Relevant Reading](philosophy/relevant-reading.md)
 
