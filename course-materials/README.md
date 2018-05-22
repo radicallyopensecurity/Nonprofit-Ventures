@@ -10,7 +10,7 @@
 * [Nonprofit Companies](nonprofit-business/nonprofit-companies.md)
 * [Fiscal Fundraising Institutions](nonprofit-business/fiscal-fundraising-institutions.md)
   * [Case Study: Radically Open Security](nonprofit-business/case-study-ros.md)
-* [Open-Source](business-and-entrepreneurship/open-source.md)
+* [IP and Open-Source](business-and-entrepreneurship/open-source.md)
 
 ## Business and Entrepreneurship:
 * [Content Overview](business-and-entrepreneurship/content-overview.md)
