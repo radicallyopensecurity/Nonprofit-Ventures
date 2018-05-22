@@ -15,6 +15,7 @@
 ## Business and Entrepreneurship:
 * [Content Overview](business-and-entrepreneurship/content-overview.md)
 * [Starting Out](business-and-entrepreneurship/starting-out.md)
+  * [Business Model Canvas](business-and-entrepreneurship/business-model-canvas.md)
 * [Scaling Up](business-and-entrepreneurship/scaling-up.md)
 * [Business Methodologies](business-and-entrepreneurship/methodologies.md)
   * [Lean Startup](business-and-entrepreneurship/lean-startup.md)
