@@ -28,7 +28,7 @@
   * I combined these two majors in the obvious direction (bioinformatics)
     * I did my Bachelors thesis on molecular modeling
     * I found a summer job (in Jerusalem) in proteonomics, inspired by a Dutch friend of mine in Miami
-    * (Thus started my travel addiction - and my initial interest in the Netherlands.)
+    * (Thus started my travel addiction - and my interest in the Netherlands.)
   * At the end of my Bachelors, all of my friends were applying to medical school
     * I had good grades and test scores - and could have done the same.  But something didn't feel right.
     * So instead, I decided to take a year off to work, so I could reflect before making a decision.
