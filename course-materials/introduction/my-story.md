@@ -4,6 +4,7 @@
   
 ## Personal History
 
+* My name is Melanie Rieback - nice to meet you.   :-)
 * I was born in Ohio in 1978, lived briefly in Illinois, and grew up in South Florida
 * I was always a computer geek ever since I can remember
   * My parents were both "techies" who worked at AT&T Bell Labs (in Naperville, IL) back in the day
