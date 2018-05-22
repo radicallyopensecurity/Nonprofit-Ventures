@@ -35,8 +35,8 @@
   * This was back in 2001, during the public-private race to sequence the human genome for the first time.
   * I was in the public half of the "genome race" - it was an interesting time
   * I am one of the thousands(!) of co-authors of the initial paper sequencing the human genome in Nature.
-  * I realized at a place like MIT that there was a glass ceiling only having a bachelors degree.
-  * I also realized that I enjoyed pure computer science more than the (computational) biology.
+  * I realized at a place like MIT that there is a glass ceiling only having a bachelors degree.
+  * I also realized that I enjoyed computer science more than the (computational) biology.
   * So I decided to go to back graduate school, to get an advanced degree in computer science.
 * MSc. in Computer Science (Technical Informatics) at Technical University of Delft
   * (add more detail here)
