@@ -20,6 +20,8 @@
 * [Startup Methodologies](business-and-entrepreneurship/methodologies.md)
   * [Lean Startup](business-and-entrepreneurship/lean-startup.md)
 * [Management Methodologies](business-and-entrepreneurship/management-methodologies.md)
+  * [Holocracy](business-and-entrepreneurship/holocracy.md)
+  * [Teal](business-and-entrepreneurship/teal.md)
 * [Dealing with Stress](philosophy/dealing-with-stress.md)
 * [Relevant Reading](business-and-entrepreneurship/relevant-reading.md)
 
