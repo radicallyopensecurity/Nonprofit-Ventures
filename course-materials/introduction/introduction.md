@@ -10,5 +10,5 @@ These course materials:
   * Business as a form of activism
 * In this context, non-profit business starts to make a lot of sense
   * I approach business in the most holistic sense - it is mixing self-actualization, making a living, meaningful work, and social benefit.
-  * The vehicle of business is an outstanding means to optimize for durable positive social impact.
+  * The vehicle of business is an outstanding means to optimize for sustainable positive social impact.
 
