@@ -18,6 +18,7 @@
   * [Business Model Canvas](business-and-entrepreneurship/business-model-canvas.md)
   * [Lean Startup](business-and-entrepreneurship/lean-startup.md)
 * [Management Methodologies](business-and-entrepreneurship/management-methodologies.md)
+  * [Agile](business-and-entrepreneurship/agile.md)
   * [Lean](business-and-entrepreneurship/lean.md)
   * [Kanban](business-and-entrepreneurship/kanban.md)
   * [Holocracy](business-and-entrepreneurship/holocracy.md)
