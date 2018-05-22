@@ -26,6 +26,7 @@
 * [Scaling Up](business-and-entrepreneurship/scaling-up.md)
   * [Platform Organizations](business-and-entrepreneurship/platform-organizations.md)
   * [Exponential Business](business-and-entrepreneurship/exponential-business.md)
+  * [Reasons NOT to Scale](business-and-entrepreneurship/reasons-not-to-scale.md)
 * [More Reading](business-and-entrepreneurship/relevant-reading.md)
 
 ## Philosophy:
