@@ -23,6 +23,5 @@
 * [Stuff I want to read](notes/stuff-i-want-to-read.md)
 
 
-These materials are open-sourced until the Creative Commons license.
+These materials are open-sourced under the Creative Commons license.  Feel free to use, modify, and share them to suit your needs!
 
-Feel free to use, modify, and share them to suit your needs!
