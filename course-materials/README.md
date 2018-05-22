@@ -16,6 +16,7 @@
 * [Open-Source](business-and-entrepreneurship/open-source.md)
 * [Starting Out](business-and-entrepreneurship/starting-out.md)
 * [Scaling Up](business-and-entrepreneurship/scaling-up.md)
+* [Methodologies](business-and-entrepreneurship/methodologies.md)
 * [Relevant Reading](business-and-entrepreneurship/relevant-reading.md)
 
 ## Philosophy:
