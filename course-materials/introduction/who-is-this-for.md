@@ -5,9 +5,9 @@
   * (Aspiring) social entrepreneurs can optimize their startups/scale-ups for positive social impact
   * Foundations and NGOs can learn how business might be more flexible and scalable than their current legal forms
 
-* Right-brain folk (creatives)
+* Right-brain folk (creatives, activists)
   * Activists and civil society folks can harness the power of business to create sustainable vehicles for positive change
-  * Creative artists (art, music, etc..) can leverage entrepreneurship to make their art financially sustainable
+  * Creative artists (art, music, performance, etc..) can leverage entrepreneurship to make their art financially sustainable
 
 * I believe that we need a combined left brain-right brain approach for entrepreneurship
   * Business schools and "startup incubators" have a tendency to focus upon left-brain (practical) topics
