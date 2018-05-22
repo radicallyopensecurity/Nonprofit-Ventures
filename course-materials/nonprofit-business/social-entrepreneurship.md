@@ -10,10 +10,3 @@
   * In today's political climate, subsidies and donations are drying up
   * The ability to financially stand upon one's own feel is achieving sustainability
   
-* Kinds of social entrepreneurship
-  * B corporations
-  * Microfinance
-  * Hybrid foundation-businesses
-  * FFIs (to be introduced in this book)
-  
-  
