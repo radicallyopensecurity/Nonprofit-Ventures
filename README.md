@@ -2,6 +2,7 @@
 
 These are raw brainstorm notes.  Please bear with us..  this is a Work In Progress!
 
+* [About Nonprofit Ventures](brainstorm-notes/about-npv.md)
 * [Nonprofit Companies](brainstorm-notes/about-ffis.md)
   * [Case Study: Radically Open Security](brainstorm-notes/case-study-ros.md)
 * [Nonprofit Company Incubator](brainstorm-notes/nonprofit-company-incubator.md)
