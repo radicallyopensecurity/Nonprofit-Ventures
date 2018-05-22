@@ -1,0 +1,50 @@
+NPV BOOTCAMP
+Ideas for Format
+Version 0.2
+
+DAY 1:
+-	Teambuilding: Entrepreneurs can have powerful peer-effects so making sure they work together optimally is worth investing sometime in the beginning (estimated time 4h)
+-	Pitch Training (collect and feedback pitch decks before the event to ensure a minimum standard and coherence)
+-	Baseline Pitch: Check-In Pitch to get a Baseline of where they come from, where they stand, what their challenges are and where they want to go, can happen in front of trainers & challengers (they can also get a 2-page briefing about the ventures, yet a pitch is still the most efficient way to inform them). Challengers are leaders from business, science, politics and civil society. The feedback needs to be systematically collected (on flash cards or through an online tool) and serves as the basis for the work on the ventures in the following days. 
+-	Two rounds of  Challenger Speeddating: mutually beneficial since challenger get to know many invalidations and the founders behind them in short time frame, while the founders get high-quality feedback on their ideas and can expand their network. One goal might be to (openly or more subtly) try to create matches of founders with challengers that could potentially become their (formal / informal) mentors which would form a great long-term advantage for the founders.
+  o	Founders meet 20 different challengers in a row for 5 minutes each ( 2h)
+  o	Break
+  o	Founders meet 5 challengers for 30 minutes each (2,5 h)
+-	Networking Dinner & Get together 
+
+DAY 2 to [X]:
+1)	During the Bootcamp the founders get trained in a number of modules that can be co-designed or wholly plugged-in by experienced partners. The final timeframe depends on the number and length of modules we can provide. The following criteria are relevant in choosing and designing the modules:
+  a.	Low trainer to founder ratio, ideally 1:1, so every founder can immediately apply the content to her venture
+  b.	Hands-on approach - focus on practice and not theory 
+  c.	Always ensure founders are able to actually apply the module to their company by giving them some modules where they work for themselves and requiring them to set SMART goals at the end of each module/day
+  d.	An essential key to ensure that the insights from the bootcamp don't get lost in the everyday routine, is to have follow-up coaching so the impact, insights and energy from the bootcamp can sustainably be carried into the venture in a stable process, here the SMART goals and milestones come in handy
+  e.  Throughout the bootcamp the founders not only need input, but time and space to work on applying and implementing what they are learning to their enterprise - also plan timeslots for that.
+2)	Potential Modules (flexibility based on selected founder's needs).
+  a.	Team and Personal Development: expertise profiles, commitments, needs
+  b.	(Social) Business Model Canvas & Business Development: SWOT, Value Proposition Design etc. 
+  c.	Financial Planning: Explaining and applying FFI Model, tipps & tricks, Applying (different) hybrid models to ventures
+  d.	Marketing & PR: USP, storytelling, design, target groups, personas, channels
+  e.	Infrastructure: technological needs, key processes 
+  f.	Agile process management: SCRUM, Holocracy etc.
+  g.	Agile product management: KPIs, Build-Measure-Learn, User Testing, Design Thinking, MVPs etc.
+  h.	Social Entrepreneurship and System Practice/Strategy
+  i.	Grand Strategy: Vision, Mission, Milestones
+  j.  Hackathon: potentially we could also have a team of developers there that helps the teams creating on the spot small sprints to test (MVP, landing pages etc.) ideas they have throught the bootcamp
+
+Last Day (Demo Day):
+-	Final Pitch training: focus on progress in the past days and Call2Action
+-	Final Pitch Event (7 min each, online live-stream): in front of previous and additional challengers as well as 'sharks'/'angels' (foundations, public funds, private impact driven VCs) and media partners (TV, newspapers, industry media etc.)
+
+Recruitment and Selection of Candidates (more up to date timeline to be found in TODO list):
+Selection (who involved in seleciton? Jury staffed by partners?) - potential timeline:
+-	May - June: Open Applications: written & video (distributed by partners)
+-	July: Pre-Selection based on applications
+-	August: Personal interviews
+-	September: First NPV Bootcamp
+
+Criteria:
+-	Founding team: why are these the right people to do this? (key criterion, cause everything in a venture - including the core idea - can be changed, but you cannot change humans)
+-	Impact potential: what positive systematic change can this venture bring about?
+-	Business case: how much value can this venture create and can it be sustainable in the long term?
+-	(Program fit: do they really need our program at this stage or is someone else in a better position to help them?)
+
