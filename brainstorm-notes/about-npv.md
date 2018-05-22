@@ -1,6 +1,6 @@
 # About Nonprofit Ventures
 
-* [A Nonprofit Company Incubator](nonprofit-company-incubator.md)
+* [Nonprofit Ventures = A Nonprofit Company Incubator](nonprofit-company-incubator.md)
 * [Business Model](business-model.md)
   * [Canvases](https://github.com/radicallyopensecurity/Nonprofit-Ventures/tree/master/business-model-canvas)
 * [List of Actions Taken](actions-taken.md)
