@@ -4,3 +4,4 @@
   * The market can determine which direction your company evolves in 
   * (But keep it in accordance with your principles)
   
+* Required reading: Lean Startup by Eric Ries
