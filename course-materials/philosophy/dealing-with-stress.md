@@ -3,9 +3,17 @@
 * Pace yourself
   * Remember that running a business is an (ultra-)marathon, not a sprint
   * Take small steps everyday, and you will get there
-  * Striving after goals can be motivating
-    * But sometimes, ironically, achieving them can be demotivating
-    * Direction can be more important than goals (see: ACT therapy)
+  * It takes time - be patient with yourself
+    * Malcolm Gladwell's 10,000 hours to master anything
+    * Keep in mind: "anything worth doing is also worth doing badly"
+
+* Striving after goals can be motivating
+  * Set goals - preferably ones that are meaningful for you
+  * Never waste a good deadline
+  * Keeping yourself publicly accountable helps
+* Ironically enough achieving goals/success is sometimes also demotivating
+  * So I achieved XYZ..  now what?!
+  * Direction can be more healthy than goals (see: ACT therapy)
 
 * Dealing with criticism
   * There will always be people who don't like what you are doing
