@@ -6,7 +6,7 @@
 
 ## Nonprofit Business:
 * [Content Overview](nonprofit-business/content-overview.md)
-* [Nonprofit-business?](nonprofit-business/nonprofit-businesss.md)
+* [Nonprofit-companies?](nonprofit-business/nonprofit-companies.md)
 * [Fiscal Fundraising Institutions](nonprofit-business/fiscal-fundraising-institutions.md)
 
 ## Business and Entrepreneurship:
