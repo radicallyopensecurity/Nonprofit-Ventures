@@ -16,7 +16,7 @@
   * I had no clue what I wanted to do when I grew up (astronaut? paratrooper? superhero?)
 * In high school, my big passion was music (oboe and clarinet)
   * I played in several honors bands and had a paid gig in a semi-professional orchestra
-  * I performed the 'Cimarosa Concerto for Oboe and Strings' as a soloist twice
+  * I performed the 'Cimarosa Concerto for Oboe and Strings' (with a full orchestra) as a soloist twice
   * Applied to University of Florida music school (on oboe) and got in.
   * But decided that I'd have a rough future as a professional oboist.
   * So I decided to study something else instead.
