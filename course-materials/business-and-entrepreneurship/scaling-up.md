@@ -10,4 +10,5 @@
 * Leaders become more effective by listening more, and doing less
   * See the 'Tao te Ching' by Lao Tzu
   * It has a lot to say about this style of leadership
-
+* More good reading:
+  * 'Scaling Up' by Verne Harnish 
