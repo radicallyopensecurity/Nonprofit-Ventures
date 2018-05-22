@@ -20,5 +20,4 @@ I approach business in the most holistic sense - it is mixing self-actualization
 * Business as a form of self-expression
 * Business as a form of activism
 
-Then non-profit business starts to make a lot of sense
-
+In this context, non-profit business starts to make a lot of sense
