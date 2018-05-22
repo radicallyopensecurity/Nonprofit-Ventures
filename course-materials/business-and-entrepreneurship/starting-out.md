@@ -16,7 +16,7 @@
 
 * It's easier to start with a problem than with a solution
   * Starting with a solution = "I have a hammer, let's find nails"
-  * Starting with a problem = asking yourself the following questions:
+  * Starting with a problem = ask yourself the following questions:
     * What pain is my company addressing?
     * Who will happily pay to have this pain lessened?
 
