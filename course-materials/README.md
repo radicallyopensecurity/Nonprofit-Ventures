@@ -1,8 +1,8 @@
 # Nonprofit Ventures Course Materials - prototyping
 
-* [Introduction](introduction.md)
-* [Who is this for?](who-is-this-for.md)
-* [My Story](my-story.md)
+* [Introduction](introduction/introduction.md)
+* [Who is this for?](introduction/who-is-this-for.md)
+* [My Story](introduction/my-story.md)
 
 ## Nonprofit Business:
 * [Content Overview](nonprofit-business/content-overview.md)
