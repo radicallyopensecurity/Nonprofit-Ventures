@@ -3,8 +3,6 @@
 * People are different in their working habits (structure vs. agility)
   * There is no right or wrong
   * But you won't be able to predict what you need in the very beginning, if you're working on a project of any complexity
-* Developing and running a company is a process
-  * Kaizen (continuous improvement)
   
 * Most opportunities will come from weird corners of your life
   * This includes: customers/staff/ideas
