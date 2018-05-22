@@ -18,12 +18,14 @@
   * [Business Model Canvas](business-and-entrepreneurship/business-model-canvas.md)
 * [Startup Methodologies](business-and-entrepreneurship/methodologies.md)
   * [Lean Startup](business-and-entrepreneurship/lean-startup.md)
-* [Scaling Up](business-and-entrepreneurship/scaling-up.md)
 * [Management Methodologies](business-and-entrepreneurship/management-methodologies.md)
   * [Lean](business-and-entrepreneurship/lean.md)
   * [Kanban](business-and-entrepreneurship/kanban.md)
   * [Holocracy](business-and-entrepreneurship/holocracy.md)
   * [Teal](business-and-entrepreneurship/teal.md)
+* [Scaling Up](business-and-entrepreneurship/scaling-up.md)
+  * [Platform Organizations](business-and-entrepreneurship/platform-organizations.md)
+  * [Exponential Business](business-and-entrepreneurship/exponential-business.md)
 * [More Reading](business-and-entrepreneurship/relevant-reading.md)
 
 ## Philosophy:
