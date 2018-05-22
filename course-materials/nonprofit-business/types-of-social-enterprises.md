@@ -1,3 +1,6 @@
 # Types of Social Enterprises
 
-* List them here
+* B corporations
+* Microfinance
+* Hybrid foundation-businesses
+* FFIs (to be introduced in this book)
