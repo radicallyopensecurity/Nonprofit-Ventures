@@ -9,3 +9,6 @@
   * If you believe in it enough, so will everyone else
   * You write your own "fairy tale" and it becomes a self-fulfilling prophecy
 
+* A few other things when starting:
+  * It's all about the team (start with A+ players)
+  * Quality is EVERYTHING! (go the extra mile to make customers ecstatic) 
