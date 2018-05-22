@@ -13,8 +13,8 @@ In this section, we will touch upon:
 * Humility / vulnerability
 * Empathy/Nonviolent communication
 * Leading a meaningful life
-* Resilience ("it's all a gift")
 * Bravery / dealing with naysayers
+* Resilience ("it's all a gift") + dealing with failure
 * etc..
 
 Half the battle is getting folks into the right mindset. When the intentions are pure, the path will appear.. :-)
