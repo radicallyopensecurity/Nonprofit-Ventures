@@ -16,7 +16,6 @@
 * [Content Overview](business-and-entrepreneurship/content-overview.md)
 * [Starting Out](business-and-entrepreneurship/starting-out.md)
   * [Business Model Canvas](business-and-entrepreneurship/business-model-canvas.md)
-* [Startup Methodologies](business-and-entrepreneurship/methodologies.md)
   * [Lean Startup](business-and-entrepreneurship/lean-startup.md)
 * [Management Methodologies](business-and-entrepreneurship/management-methodologies.md)
   * [Lean](business-and-entrepreneurship/lean.md)
