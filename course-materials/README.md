@@ -19,4 +19,4 @@
 * [Relevant Reading](philosophy/relevant-reading.md)
 
 ## Notes:
-* [Stuff I need to investigate](notes/stuff-i-need-to-investigate.md)
+* [Stuff I want to read](notes/stuff-i-want-to-read.md)
