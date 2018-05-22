@@ -56,4 +56,9 @@ HAPPY 0th BIRTHDAY TO NONPROFIT VENTURES!!!!!!   :-D :-D :-D
 
 50. Start setting up bank accounts for NPV Stichting + BV with Rabobank
 51. Interview on Radio 1 about Nonprofit Ventures - to celebrate its official creation! 
+52. Writing course materials for NPV + reorganizing Github
+53. Many, many, many meetings with various kinds of stakeholders (business/startup, nonprofit/art/creative, ICT/security)
+54. Many, many, many public presentations, to start introducing the idea to the world    :-)
+55. Found a new graphic designer and started with ideation for the logo + house style
+56. Got a sanitized version of our Statutes from the notary for publication on Github
 
