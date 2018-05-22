@@ -31,6 +31,5 @@ by itself.
 
 * Non-profit company principles:
   * Non-profit (FFI)
-  * Decentralized management(?), ala Holocracy/Teal
   * Choose an ANBI Stichting to support that is close in purpose to the purpose of the FFI being started
   * Needs volunteers to help as well
