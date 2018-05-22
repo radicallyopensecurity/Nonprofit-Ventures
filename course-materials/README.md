@@ -16,8 +16,9 @@
 * [Content Overview](business-and-entrepreneurship/content-overview.md)
 * [Starting Out](business-and-entrepreneurship/starting-out.md)
 * [Scaling Up](business-and-entrepreneurship/scaling-up.md)
-* [Methodologies](business-and-entrepreneurship/methodologies.md)
+* [Business Methodologies](business-and-entrepreneurship/methodologies.md)
   * [Lean Startup](business-and-entrepreneurship/lean-startup.md)
+* [Management Methodologies](business-and-entrepreneurship/management-methodologies.md)
 * [Dealing with Stress](philosophy/dealing-with-stress.md)
 * [Relevant Reading](business-and-entrepreneurship/relevant-reading.md)
 
