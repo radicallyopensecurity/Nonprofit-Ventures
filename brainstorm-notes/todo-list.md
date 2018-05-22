@@ -10,9 +10,9 @@ Time goal in parenthese.
   
 ## Equipping the entity with necessary things
 
-* A mailing list for interested partners (April 2018)
-* Create a logo and house style (April 2018)
-* open-sourcing the Aktes for both ROS and NPV. 
+* Get interested partners to opt-in to our mailing list (May 2018)
+* Create a logo and house style (May 2018)
+* Place the open-sourced Aktes for both ROS and NPV on Github
 * Have physical team meeting to come up with vision & mission, processes and product approach (May 2018)
 * Create a webpage (May 2018)
 * Setup a bank account for the BV (May 2018)
@@ -20,7 +20,7 @@ Time goal in parenthese.
 
 ## Assembling a network
 
-* Decide who to ask to join our Advisory Board (April 2018)
+* Decide who to ask to join our Advisory Board (May 2018)
 * Find helpers = folks who can help us to get this all setup (June 2018)
 * Find "customers" = companies/organizations/government that would be interested in purchasing from new FFIs (July 2018)
   * We can also try to convince existing companies to become FFIs
@@ -29,7 +29,6 @@ Time goal in parenthese.
 ## Create the content/Develop product
 
 * Brainstorm and feedback format + content for the "FFI Startup Bootcamp" (Ongoing)
-* Iterate and feedback buisness model canvas / value proposition to be tested (April 2018)
 * Survey and map existing incubation/acceleration landscape in NL (May 2018)
 * Test value proposition with entrepeneurs (participants) / firms (customers) to test value proposition. Learn -> What is it that they really need that they are not getting right now? (June 2018)
 * Run 1 day prototype (June 2018)
@@ -43,10 +42,10 @@ Time goal in parenthese.
 
 ## Ideas About Who We Can Approach
 
-We want to rally potential partners of various kinds.  Here's a few ideas:
-* Companies - Companies from the Bilderberg Conference
-* Incubators - ACE Venture Lab, Startup Bootcamp, Startup Delta
-* Universities - Nijenrode
-* Individuals - Astrid, Serge, Joan
-* Social Entrepreneurship groups - Social-enterprise.nl, Impact Hub, Maatschappelijk Verantwoord Ondernemen (MVO), Knowmads, Delitelabs, Project Together
-* Dutch political parties (Groenlinks, D66, etc..)
+We have been busy rallying potential partners of various kinds.  This includes:
+* Companies
+* Incubators 
+* Universities
+* Individuals
+* Political parties
+* Social Entrepreneurship groups (Social-enterprise.nl, Impact Hub, Maatschappelijk Verantwoord Ondernemen (MVO), Knowmads, Delitelabs, Project Together)
