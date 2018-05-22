@@ -15,6 +15,10 @@
     * In our case (ROS), we are only allowed to have 1 year's worth of turnover in the bank.
     * We are forced to give anything above that to our foundation (NLnet).
   * Required number of volunteers
+
+* To research:
+  * How many FFIs in the Netherlands?
+  * Who are they?
   
 * Similar constructions (internationally):
   * LC3 (USA)
