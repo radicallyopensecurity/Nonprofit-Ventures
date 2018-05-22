@@ -23,7 +23,7 @@
 * BSc. in Biology and Company Science at University of Miami
   * My parents said that "I needed to be a doctor or a lawyer" and I knew that I didn't want to be a lawyer.
   * So I enrolled as a pre-medical student (Biology major) at the University of Miami
-  * While taking core courses, I realized that my computer science was fun
+  * While taking core courses, I realized that computer science was fun
   * So I added a 2nd major (computer science), so I could take more computer classes
   * I combined these two majors in the obvious direction (bioinformatics)
     * I did my Bachelors thesis on molecular modeling, and found a summer job (in Jerusalem) in proteonomics.
