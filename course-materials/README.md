@@ -5,4 +5,4 @@ I will start prototyping the course materials here
 * [Content Brainstorm](content-brainstorm.md)
 
 Notes:
-* [Interesting Resources](notes/interesting-links.md)
+* [Stuff I need to investigate](notes/stuff-i-need-to-investigate.md)
