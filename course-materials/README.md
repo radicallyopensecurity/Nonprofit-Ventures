@@ -2,7 +2,6 @@
 
 * [Introduction](introduction.md)
 * [Who is this for?](who-is-this-for.md)
-* [Content Brainstorm](content-brainstorm.md)
 
 Business and Entrepreneurship:
 * [Content Overview](business-and-entrepreneurship/content-overview.md)
