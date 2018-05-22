@@ -27,5 +27,26 @@
   * I would wager to say that services are actually *more* scalable than products right now
 
 * It's harder to get funding
+  * Why do you need funding anyways?
+  * Services don't require a huge upfront investment
+  * "B2B Crowdfund" R&D on your products by selling services
+  * Bootstrap and/or grow your business without giving up control
+  
 * Won't competitors steal our IP?
+  * "Not Invented Here" syndrome
+  * When competitors steal your stuff, it's actually a compliment
+  * It's hard work to steal someone else's product
+    * Your product is probably buggy and needs to be maintained
+    * It's less work to upstream changes than to keep them for yourself
+    
 * Customers won't take us seriously
+  * Win the hearts of a few geeks and they will FIGHT to get you into their company
+  * Open-source is the best sales and marketing that you can't buy
+    * Conference talks, newspaper articles, word of mouth, etc..
+  * DevOps-style evangelism works!
+
+* Other benefits of open-sourcing your IP:
+  * Makes hiring easier - the most talented geeks are idealistic.  :-)
+  * It's just more fulfilling - life is about more than just profit
+  
+  
