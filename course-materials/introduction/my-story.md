@@ -21,6 +21,7 @@
   * But decided that I'd have a rough future as a professional oboist.
   * So I decided to study something else instead.
 * BSc. in Biology and Company Science at University of Miami
+  * I had absolutely no clue what I wanted to study
   * My parents said that "I needed to be a doctor or a lawyer" and I knew that I didn't want to be a lawyer.
   * So I enrolled as a pre-medical student (Biology major) at the University of Miami
   * While taking core courses, I realized that computer science was fun
