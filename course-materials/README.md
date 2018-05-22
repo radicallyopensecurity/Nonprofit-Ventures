@@ -27,8 +27,9 @@
 
 ## Philosophy:
 * [Content Overview](philosophy/content-overview.md)
-* [Dealing with Stress](philosophy/dealing-with-stress.md)
+* [What Business Can Be](philosophy/what-business-can-be.md)
 * [Planning vs. Synchronicity](philosophy/planning-vs-synchronicity.md)
+* [Dealing with Stress](philosophy/dealing-with-stress.md)
 * [More Reading](philosophy/relevant-reading.md)
 
 ## Notes:
