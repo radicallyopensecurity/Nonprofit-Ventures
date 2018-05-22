@@ -2,6 +2,7 @@
 
 * [Introduction](introduction.md)
 * [Who is this for?](who-is-this-for.md)
+* [My Story](my-story.md)
 
 ## Business and Entrepreneurship:
 * [Content Overview](business-and-entrepreneurship/content-overview.md)
@@ -10,7 +11,6 @@
 * [Relevant Reading](business-and-entrepreneurship/relevant-reading.md)
 
 ## Nonprofit Business:
-* [My Story](nonprofit-business/my-story.md)
 * [Nonprofit-business?](nonprofit-business/nonprofit-businesss.md)
 * [Fiscal Fundraising Institutions](nonprofit-business/fiscal-fundraising-institutions.md)
 
