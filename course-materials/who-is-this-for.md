@@ -6,4 +6,3 @@
 * For nonprofit, NGO, and civil society folks, to understand how businesses (FFIs) might be more flexible than the current business forms they are using
 * For activists and artists, to understand how to harness the power of business to create sustainable vehicles for positive change
 
-These materials are open-sourced until the Creative Commons license.   Feel free to use, modify, and share them to suit your needs!
