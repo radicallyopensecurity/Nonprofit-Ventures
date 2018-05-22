@@ -1,4 +1,4 @@
-# Open-Source
+# IP and Open-Source
 
 * FLOSS Business Model = give away the products, sell the services
 * There's LOTS of successful examples of companies who did this!
