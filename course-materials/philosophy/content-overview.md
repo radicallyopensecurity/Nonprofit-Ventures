@@ -11,9 +11,7 @@
   * Empathy/Nonviolent communication
   * How to lead a meaningful life
   * etc..
-
-Half the battle is getting folks into the right mindset. When the intentions are pure, the path will appear.. :-)
-
+* Half the battle is getting folks into the right mindset. When the intentions are pure, the path will appear.. :-)
 * We consider:
   * Business as a creative art form
   * Business as a form of spirituality
