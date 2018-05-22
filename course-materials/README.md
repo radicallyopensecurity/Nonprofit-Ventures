@@ -21,6 +21,7 @@
 ## Philosophy:
 * [Content Overview](philosophy/content-overview.md)
 * [Dealing with Stress](philosophy/dealing-with-stress.md)
+* [Planning vs. Synchronicity](philosophy/planning-vs-synchronicity.md)
 * [Relevant Reading](philosophy/relevant-reading.md)
 
 ## Notes:
