@@ -10,4 +10,4 @@ These are raw brainstorm notes.  Please bear with us..  this is a Work In Progre
 * [Potential Partners](brainstorm-notes/potential-partners.md)
   * [How To Help?](brainstorm-notes/how-to-help.md)
   * [TODO List](brainstorm-notes/todo-list.md)
-
+* [Course Materials: Prototyping](course-materials/README.md)
