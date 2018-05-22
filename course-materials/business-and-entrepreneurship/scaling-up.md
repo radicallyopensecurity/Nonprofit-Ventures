@@ -7,7 +7,7 @@
 * However to be a good leader in a scale-up, you have to step out of your people’s way
 * The staff needs to start running the organization in a decentralized fashion
   * Holocracy/Teal/etc..
-* Leaders become more effective by listening, and doing less
+* Leaders become more effective by listening more, and doing less
   * See the 'Tao te Ching' by Lao Tzu
   * It has a lot to say about this style of leadership
 
