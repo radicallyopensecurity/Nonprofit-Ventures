@@ -1,4 +1,4 @@
-Nonprofit Ventures Course Materials - prototyping
+# Nonprofit Ventures Course Materials - prototyping
 
 * [Introduction](introduction.md)
 * [Who is this for?](who-is-this-for.md)
