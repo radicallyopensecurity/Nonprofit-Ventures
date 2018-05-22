@@ -14,7 +14,8 @@
 ## Business and Entrepreneurship:
 * [Content Overview](business-and-entrepreneurship/content-overview.md)
 * [Open-Source](business-and-entrepreneurship/open-source.md)
-* [Starting Out vs. Scaling Up](business-and-entrepreneurship/starting-out-vs-scaling-up.md)
+* [Starting Out](business-and-entrepreneurship/starting-out.md)
+* [Scaling Up](business-and-entrepreneurship/scaling-up.md)
 * [Relevant Reading](business-and-entrepreneurship/relevant-reading.md)
 
 ## Philosophy:
