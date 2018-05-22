@@ -2,7 +2,7 @@
 
 If you want to assist with any of these TODO items, send an email to melanie@radicallyopensecurity.com or join us in our [chatroom](https://chat.nonprofit.ventures).
 
-Time goal in parenthese. 
+Time goal in parentheses. 
 
 ## Setting up the legal entity
 
