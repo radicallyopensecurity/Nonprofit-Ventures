@@ -1,26 +1,16 @@
 # Nonprofit Entrepreneurship: Introduction
 
-Here are some rough ideas about how to structure the actual content of the course itself..
+* These course materials:
+  * Introduce the concept of Nonprofit Companies
+  * Promote Nonprofit Social Entrepreneurship
+  * Provide a mix of business/entreprenurial and philosophical content
 
-## Business/Entrepreneurship Content
+I approach business in the most holistic sense - it is mixing self-actualization, making a living, meaningful work, and social benefit.
 
-* Business model canvas
-* Lean Startup
-* Funding and Invement (why vs. why not?)
-* Management Styles
-* Open-Source and IP
-* Scalability and Platform Businesses
-* etc..
+* Business as a creative art form
+* Business as a form of spirituality
+* Business as a form of self-expression
+* Business as a form of activism
 
-## Philosophical content
-
-* Creativity
-* Activism
-* Spirituality (in a non-religious sense)
-* Self-care
-* How to lead a meaningful life
-* etc..
-
-Half the battle is getting folks into the right mindset.  When the intentions are pure, the path will appear..   :-)
-
+In this context, non-profit business starts to make a lot of sense
 
