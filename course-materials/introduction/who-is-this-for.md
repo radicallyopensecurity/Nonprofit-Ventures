@@ -1,8 +1,16 @@
 # Who is this for?
 
-* For business and ICT professionals who want to find more meaning in their work
-* For entrepreneurs who might want to create a social enterprise
-* For social entrepreneurs to learn about the FFI
-* For nonprofit, NGO, and civil society folks, to understand how businesses (FFIs) might be more flexible than the current business forms they are using
-* For activists and artists, to understand how to harness the power of business to create sustainable vehicles for positive change
+* Left-brain folk (rational thinkers, scientists, engineers, corporates)
+  * Business and ICT professionals might want to find more meaning in their work
+  * (Aspiring) social entrepreneurs can think about making their startups nonprofit
+  * Foundations and NGOs can learn how business might be more flexible and scalable than their current legal forms
 
+* Right-brain folk (creatives)
+  * Activists and civil society folks can harness the power of business to create sustainable vehicles for positive change
+  * Creative artists (art, music, etc..) can leverage entrepreneurship to make their art financially sustainable
+
+* I believe that we need a combined left brain-right brain approach for entrepreneurship
+  * Business schools and "startup incubators" have a tendency to focus upon left-brain (practical) topics
+  * Creatives tend to shun business (and sometimes even success itself) viewing it as a corrupting and/or invalidating factor
+  * Both approaches miss the mark - I believe that the ideal solution is somewhere in the middle
+  
