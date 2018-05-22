@@ -1,9 +1,9 @@
 # Nonprofit Entrepreneurship: Introduction
 
-* These course materials:
-  * Introduce the concept of Nonprofit Companies
-  * Promote Nonprofit Social Entrepreneurship
-  * Provide a mix of business/entreprenurial and philosophical content
+These course materials introduce the concept of Nonprofit Companies and Nonprofit Social Entrepreneurship.
+
+* We aim to provide the aspiring social entrepreneur with business tools and knowledge.
+* We also provide philosophical content to address the question: why?
 
 I approach business in the most holistic sense - it is mixing self-actualization, making a living, meaningful work, and social benefit.
 
