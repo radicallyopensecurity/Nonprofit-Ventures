@@ -7,7 +7,7 @@
 ## Nonprofit Business:
 * [Content Overview](nonprofit-business/content-overview.md)
 * [Social Entrepreneurship](nonprofit-business/social-entrepreneurship.md)
-* [Nonprofit Companies?](nonprofit-business/nonprofit-companies.md)
+* [Nonprofit Companies](nonprofit-business/nonprofit-companies.md)
 * [Fiscal Fundraising Institutions](nonprofit-business/fiscal-fundraising-institutions.md)
   * [Case Study: Radically Open Security](nonprofit-business/case-study-ros.md)
 
