@@ -2,11 +2,11 @@
 
 * Business was originally nothing more than a collaboration between people to achieve a greater goal
   * However, at some point the concept of business got bastardized
-  * Business is now about creating value for shareholders, cofounders, special interests, and banks
+  * Business is now more about creating value for shareholders, cofounders, special interests, and banks
   * But it doesn't have to be this way..
 
 * Business is an excellent vehicle for positive impact 
-  * "Corporate personhood" - nonsense, but it gives lots of freedom
+  * "Corporate personhood" - it's nonsense, but it gives lots of freedom
   * The only restrictions are: 1) obey the law, and 2) cover your costs
   * For the rest, you can do whatever you like with a business
   * That is what makes them such excellent vehicles for making the world better
