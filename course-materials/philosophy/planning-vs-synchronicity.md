@@ -1,4 +1,4 @@
-# Planning vs. Synchronicity
+# Structure vs. Synchronicity
 
 * People are different in their working habits (structure vs. agility)
   * There is no right or wrong
