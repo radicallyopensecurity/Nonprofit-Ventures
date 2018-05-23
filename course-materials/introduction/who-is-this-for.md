@@ -11,6 +11,6 @@
 
 * I believe that we need a combined left brain-right brain approach for entrepreneurship
   * Business schools and "startup incubators" have a tendency to focus upon left-brain (practical) topics
-  * Creatives tend to shun right-brain activities, especially business (and even success itself) viewing it as a corrupting and/or invalidating factor
+  * Creatives sometimes shun right-brain activities, especially business (and even success itself) viewing it as a corrupting and/or invalidating factor
   * Both approaches miss the mark - I believe that the ideal solution is somewhere in the middle
   
