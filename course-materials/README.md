@@ -11,7 +11,6 @@
 * [Nonprofit Companies](nonprofit-business/nonprofit-companies.md)
 * [Fiscal Fundraising Institutions](nonprofit-business/fiscal-fundraising-institutions.md)
   * [Case Study: Radically Open Security](nonprofit-business/case-study-ros.md)
-* [IP and Open-Source](business-and-entrepreneurship/open-source.md)
 
 ## Business and Entrepreneurship:
 * [Content Overview](business-and-entrepreneurship/content-overview.md)
@@ -28,6 +27,7 @@
   * [Platform Organizations](business-and-entrepreneurship/platform-organizations.md)
   * [Exponential Business](business-and-entrepreneurship/exponential-business.md)
   * [Reasons NOT to Scale](business-and-entrepreneurship/reasons-not-to-scale.md)
+* [IP and Open-Source](business-and-entrepreneurship/open-source.md)
 
 ## Philosophy:
 * [Content Overview](philosophy/content-overview.md)
