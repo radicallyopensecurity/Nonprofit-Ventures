@@ -8,7 +8,7 @@ In this section, we will touch upon:
 * Spirituality (in a non-religious sense)
 * Self-care/self-love 
 * Balance (work vs. private) / handling stress / avoiding burnout
-* Planning vs. Synchronicity
+* Structure vs. Synchronicity
 * Time management (GTD, scheduling, morning routines, etc..)
 * Humility / vulnerability
 * Empathy/Nonviolent communication
