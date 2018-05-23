@@ -42,7 +42,7 @@
   * I realized at a place like MIT that there is a glass ceiling only having a bachelors degree.
   * I also realized that I enjoyed computer science more than biology.
   * So I decided to go to back graduate school, to get an advanced degree in computer science.
-* MSc. in Computer Science (Technical Informatics) at Technical University of Delft
+* MSc. in Computer Science at Technical University of Delft
   * (add more detail here)
   
 ## Entrepreneurial Journey
