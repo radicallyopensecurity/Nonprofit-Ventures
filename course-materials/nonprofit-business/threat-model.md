@@ -1,4 +1,4 @@
-# Conflicts of interest 
+# FFI Threat Model
 
 * BTW.. I had a very interesting question yesterday from the Registered Controllers at the VRC conference: "why did you choose a fiscal form for your social enterprise that makes us immediately think of tax evasion?"
 * I thought that was an interesting question.. 😉
