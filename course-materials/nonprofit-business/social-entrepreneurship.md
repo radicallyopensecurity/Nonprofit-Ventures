@@ -10,3 +10,8 @@
   * In today's political climate, subsidies and donations are drying up
   * The ability to financially stand upon one's own feel is achieving sustainability
   
+* charities are frequently inefficient/ineffective because they lack the feedback mechanisms from the market that businesses would have.
+  * The folks paying (the donors) aren't the same people are the folks receiving the services.
+  * Thus the donors receive little to no feedback about the actual impact that their investment is having. (And they CERTAINTLY don't experience that impact themselves.)
+  * This is one leg-up that social enterprises have - if they aren't serving their market effectively, it will go out of business.
+  * So it enforces that feedback loop... 
