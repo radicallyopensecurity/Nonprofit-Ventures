@@ -2,7 +2,7 @@
 
 * [Nonprofit Ventures = A Nonprofit Company Incubator](nonprofit-company-incubator.md)
 * [Business Model](business-model.md)
-  * [More Ideas](business-model-discussion.md)
+  * [Detailed Business Model Discussion](business-model-discussion.md)
   * [Canvases](business-model-canvas) (rough ideation)
 * [List of Actions Taken](actions-taken.md)
 * [Potential Partners](potential-partners.md)
