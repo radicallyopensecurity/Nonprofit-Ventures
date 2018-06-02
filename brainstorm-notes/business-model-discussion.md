@@ -2,6 +2,36 @@
 
 (This is a raw chat transcript.  It hasn't been edited into something concise and coherent yet)
 
+* We can create an ANBI Stichting to support NPVs activities.
+* This would give us the flexibility to use NPV profits for exactly the kind of activities we want to support. On the other hand: would it create additional overhead that we need to take care of? Is that worth it considering that NPV would likely not make a ton of profit? Maybe it is worth it in the long term - could we first stick with an existing one (like NL net) and then later create a own NPV one?
+* "Is that worth it considering that NPV would likely not make a ton of profit?" <---- this is true, in any case. It would take years before NPV has any possibility of profit. (And even then - it's not profit that we're after.)
+"Maybe it is worth it in the long term - could we first stick with an existing one (like NL net) and then later create a own NPV one? " <---- also true. But then we still have to choose one.
+* The problem with choosing a 3rd party ANBI Stichting is that they might actually expect to receive money in the short-to-medium term
+* And I don't know if that's a promise that we can keep.
+* Remember that, it took 3 years for ROS to give NLnet their first donation.
+* They were okay with that because they share our vision, and don't need the money that much.
+* But I'm not sure how a less well aligned and/or less "rich" ANBI Stiching would feel about this
+* That's part of what I'm a bit conflicted about
+* We're publicly promising financial support to a third party Stichting - but then I also realize that it will take us a long time to deliver on that promise
+* Because turning a profit isn't the point of what we're creating.
+* So in that sense, having our own ANBI Stichting is more honest.
+* Do you know what I mean?
+
+* Maybe NLnet is the safest bet as the Stichting for NPV.
+* Since they have a total understanding of what we're trying to do.
+* And they have little to no expectations of what will come out of NPV.
+* NLnet is not really relevant for NPV. But it's a safe bet to avoid misunderstandings..
+* (And if we find a better ANBI Stichting, we can always change it again later.)
+* (But at least it would allow us to take the next steps with NPV, in registering us officially as an FFI)
+* (And it would take the time pressure off to find a different Stichting. So we can eventually choose one because it fits - not because we're in a rush.)
+* (We should also keep in mind that EVERY aspiring FFI will face this issue. This issue might be useful to describe in the course materials..)
+* It's hard to create an FFI, if there's no obvious ANBI Stichting to align with.
+* We need to find some more generic answer..
+* Otherwise, this will prevent folks from starting FFIs - because they won't be able to get past this issue.
+* (That is one benefit of creating your own ANBI Stichting. It's a generic solution.) 
+
+# Discussion Part 2
+
 * NPV does need to have some kindof business model to stay afloat.
 * (Giving free trainings/classes/workshops/startup bootcamps isn't a business model.)
 * But in such a way - we could consider the free activities to be bizdev, and consultancy would pay NPV's bills. 
@@ -36,7 +66,7 @@
 * I guess what I'm trying to say is... I want to make sure that ROS is a "launching customer" of NPV and not an "investor", "funding agency", or "NGO". Do you know what I mean?
 * I think that this distinction is important, to validate NPV's own principles.. 
 
-# Discussion Part 2
+# Discussion Part 3
 
 * I just read the following quote: “Ik vond het lastig dat ik als freelancer zo vaak afhankelijk was van andere partijen. En dat ik, tussen projecten in, soms wel een paar maanden niks had. Daarna voelde het alsof ik opnieuw moest beginnen. Nu ik meer leer ondernemen, kan ik beter een lijn uitstippelen voor mezelf.” - Mira van der Lubbe, actrice en theatermaker 
 
@@ -55,7 +85,7 @@ Which is about 9-10 hours of work per week.
 * I predict that there would be *no* issues with hiring talent! 😆
 The customers would be the hard part.. (but if it's a social enterprise supporting the cultural and nonprofit sector.. how hard would it be to find customers?) 
 
-# Discussion Part 3
+# Discussion Part 4
 
 * Remember my idea before about consultancy for creative types: we can provide them with a completely flexible and 100% remote work arrangement that provides them with a kindof "universal basic income" so they can take care of some of their financial worries but still have space/time for their creativity.
 
@@ -141,7 +171,7 @@ The customers would be the hard part.. (but if it's a social enterprise supporti
 
 * We can start out by surveying potential customers, to see what the market wants.. I envision that it would be something sortof like: what kindof freelance services would you want to buy from a non-profit business with our particular set of ideas? What kindof people should the freelancers be? What price point do you think would be reasonable for these services? What risks would you be worried about? Would you be willing to commit to purchasing these freelance services, if we build the vehicle? 
 
-# Discussion Part 4
+# Discussion Part 5
 
 * Okay.. brace yourselves.. I have some more ideas about the NPV business model that are downright bizarre. 😉
 * So I said that anyone is allowed to participate in the "Basic Income" online flexwork program that NPV BV/FFI would be using to finance Stichting NPV's educational activities..
