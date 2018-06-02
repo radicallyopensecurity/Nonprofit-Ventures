@@ -11,6 +11,7 @@
 * [Nonprofit Companies](nonprofit-business/nonprofit-companies.md)
 * [Fiscal Fundraising Institutions](nonprofit-business/fiscal-fundraising-institutions.md)
   * [Case Study: Radically Open Security](nonprofit-business/case-study-ros.md)
+  * [Threat Model](nonprofit-business/threat-model.md)
 
 ## Business and Entrepreneurship:
 * [Content Overview](business-and-entrepreneurship/content-overview.md)
