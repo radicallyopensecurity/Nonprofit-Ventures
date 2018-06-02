@@ -1,6 +1,6 @@
 # Discussion Part 1
 
-* (This is a raw chat transcript.  It hasn't been edited into something concise and coherent yet)
+(This is a raw chat transcript.  It hasn't been edited into something concise and coherent yet)
 
 * NPV does need to have some kindof business model to stay afloat.
 * (Giving free trainings/classes/workshops/startup bootcamps isn't a business model.)
