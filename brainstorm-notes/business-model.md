@@ -44,3 +44,6 @@ Other possible ways to get people more involved:
   * Project Together has open-sourced their coaching methods - a coach calls once per month to hold entrepreneurs accountable
 * (But I don't necessarily want to commit to doing more than organizing a Startup Bootcamp right now.)
   
+More stuff:
+* [Brainstorming / Ideation](business-model-brainstorming.md) (wild and crazy ideas - please take with a grain of salt)
+
