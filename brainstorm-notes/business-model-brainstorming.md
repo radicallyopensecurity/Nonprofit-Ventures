@@ -201,3 +201,39 @@ https://www.amazon.com/Artists-Way-25th-Anniversary-ebook/dp/B006H19H3M/ref=mt_k
 * I could imagine that ICT/business folks would find such a program to be interesting, if anything, for the chance to do something different between their other jobs.
 * (I'm not saying that we'd necessarily start with something this complicated at the beginning. But it could eventually be part of a longer-term vision for NPV.) 
 
+# Discussion Part 6
+
+* This is a lot of good ideation. But I get the feeling that 1) I'm making things too complicated and large, and 2) I'm starting from the needs of the producers (freelancers) and my own needs, rather than the needs of the consumers (the market).
+* I really think that I need to survey the "market" to ask them what kinds of freelance consultancy services they would actually *want* from NPV.
+* It doesn't make any sense to start in any other place besides where the market tells me to start.
+* If we can find a number of launching customers who are willing to sign on the dotted line that they want to *prepay* for something, then I will believe in it.
+* Then the process will be led by the demand of the market
+* These ideas could potentially be a huge time and money sink if the market doesn't have an authentic need for generic 100% online freelancers with liberal arts degrees.
+* I'm less worried about the consumer (market) demand than the producer (freelancer) availability and willingness
+* But in either case, we need to start small.. tiny!
+* It could be that NPV starts with consultancy themed around social entrepreneurship
+* The truth is: until we survey the market, we aren't going to know where to start.
+* So to me, beyond organizing the first of our NPV workshops, that seems to be the most logical next step to prioritize.
+
+# Discussion Part 7
+
+* I was just brainstorming with a women at Money20/20 about my NPV idea w/ the creative freelancers.
+* She thinks that it will be more challenging than ROS for the following reasons:
+* 1) ROS has highly skilled staff with a highly sought after and well paid talent.
+* 2) When working with creatives w/ college degrees, they might have some amount of general development and discipline, but they don't have highly sought after skills - their skills are more generic and thus are in lower demand. Also the skills we'd be selling aren't actually the core competencies of these people, so it's unclear how motivated these freelancers would be.
+*  So she basically said that it would be a big questionmark for companies in terms of the quality of the freelancers that we'd be getting. And in a small, but growing startup, quality of the service provided is *everything*.
+* In the long term, we could introduce a reputation system - perhaps giving customers a small discount for writing meaningful reviews of the staff they are working with
+* She also said that we'd need to start very very small, with a small number of people and customers, and we'd need to facilitate the whole process to entire perfect and impeccable quality.
+* If we can guarantee a high quality of the interaction, then the reputation of the platform will spread
+* But we need to start small - (bootstrap in the most tiny possible way)
+* We should not take any risks
+* If we start that way, we can facilitate the process and figure out what we need to do
+* (In the words of Eric Raymond - we need to get started by building a bazaar and not a cathedral.)
+* This would allow us to at least learn, and pivot as needed based upon what we learn
+* It would take some time to build such a platform
+* (ROS also wasn't built overnight)
+* So that was the advice that I got from this particular woman. (She's a banker and former venture capitalist).
+* She also said that we'd be more likely to find success (with launching customers) with SMEs rather than giant corporations.
+* Since SMEs (like ROS) need more generic flex staff to fulfill needs sometimes, but can't accept the risk of hiring people with full-time contracts.
+
+
