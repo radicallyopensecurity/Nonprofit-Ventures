@@ -7,4 +7,3 @@
 * [Potential Partners](potential-partners.md)
   * [How To Help?](how-to-help.md)
   * [TODO List](todo-list.md)
-* [Brainstorming / Ideation](business-model-brainstorming.md) (wild and crazy ideas - please take with a grain of salt)
