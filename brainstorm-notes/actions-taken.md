@@ -70,4 +70,4 @@ ORGANIZED NONPROFIT VENTURES KICKOFF WORKSHOP AT ACE VENTURE LAB (with 11 partic
 61. Getting the tax administration set up with the bookkeepers
 62. Setup LinkedIn group to connect participants from NPV Workshop #1
 63. Collecting NPV workshop feedback + starting follow-up discussion
-
+64. Looking around for a paid co-author to help write the NPV course materials
