@@ -25,6 +25,7 @@ Time goal in parentheses.
 * Find "customers" = companies/organizations/government that would be interested in purchasing from new FFIs (July 2018)
   * We can also try to convince existing companies to become FFIs
 * Find matches between the customers and social entrepreneurs
+* Find entrepreneurship students for internships / thesis projects
 
 ## Create the content/Develop product
 
