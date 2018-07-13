@@ -61,9 +61,12 @@ HAPPY 0th BIRTHDAY TO NONPROFIT VENTURES!!!!!!   :-D :-D :-D
 54. Many, many, many public presentations, to start introducing the idea to the world    :-)
 55. Found a new graphic designer and started with ideation for the logo + house style
 56. Got a sanitized version of our Statutes from the notary for publication on Github
+
 57. Organized the very first Nonprofit Ventures kickoff workshop at ACE Venture Lab with 11 participants!   :-D  :-D  :-D
+
 58. The Rabobank bank accounts are setup!
 59. Working on several iterations of the NPV logo with the graphic designer
 60. Initial meetings with Corporate Social Responsibility officers of corporations (and large organizations) to survey their pain/needs and their willingness to partner with social vendors
 61. Getting the tax administration set up with the bookkeepers
+
 
