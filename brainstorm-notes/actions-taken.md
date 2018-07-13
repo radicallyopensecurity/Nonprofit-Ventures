@@ -68,3 +68,6 @@ HAPPY 0th BIRTHDAY TO NONPROFIT VENTURES!!!!!!   :-D :-D :-D
 59. Working on several iterations of the NPV logo with the graphic designer
 60. Initial meetings with Corporate Social Responsibility officers of corporations (and large organizations) to survey their pain/needs and their willingness to partner with social vendors
 61. Getting the tax administration set up with the bookkeepers
+62. Setup LinkedIn group to connect participants from NPV Workshop #1
+63. Collecting NPV workshop feedback + starting follow-up discussion
+
