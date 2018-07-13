@@ -65,4 +65,5 @@ HAPPY 0th BIRTHDAY TO NONPROFIT VENTURES!!!!!!   :-D :-D :-D
 58. The Rabobank bank accounts are setup!
 59. Working on several iterations of the NPV logo with the graphic designer
 60. Initial meetings with Corporate Social Responsibility officers of corporations (and large organizations) to survey their pain/needs and their willingness to partner with social vendors
+61. Getting the tax administration set up with the bookkeepers
 
