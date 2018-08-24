@@ -3,7 +3,7 @@
 * Left-brain folk (rational thinkers, scientists, engineers, corporates)
   * Business and ICT professionals may want to find more meaning in their work
   * (Aspiring) social entrepreneurs can optimize their startups/scale-ups for positive social impact
-  * Foundations and NGOs to learn how business might be more flexible and scalable than their current legal forms
+  * Foundations and NGOs can learn how business might be more flexible and scalable than their current legal forms
 
 * Right-brain folk (creatives, activists)
   * Activists and civil society folks can harness business to create sustainable vehicles for positive change
