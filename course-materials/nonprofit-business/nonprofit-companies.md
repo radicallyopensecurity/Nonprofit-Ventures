@@ -24,9 +24,9 @@ supplier" can become a very successful and wealthy supplier, but not based on a 
 	 *	No exits (selling the company / acquisition-mergers / IPO)
 	 *	No investors (no angel, no VC, no impact, limited subsidies?)
 	 *	Cap on salaries of staff (including the founders and director)
-  *	Any profits (cash that leaves the company as dividends) must go to a specified Nonprofit Foundation
+         *	Any profits (cash that leaves the company as dividends) must go to a specified Nonprofit Foundation
 	 *	Define a maximum amount of cash the company can have in the bank before profits MUST be given to the Nonprofit Foundation 
-  *	Fair working conditions for staff
+         *	Fair working conditions for staff
 	 *	The statutes cannot be changed, to undo these restrictions
 
 * Contract law would then fulfill the same function that our FFI is currently filling, but without the tax break and without requiring the buy-in of the tax authorities. 
