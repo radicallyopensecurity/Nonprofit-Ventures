@@ -6,7 +6,7 @@ Aspiring entrepreneurs need to understand: the owner calls the shots. Investment
 
 Nonprofit Ventures is focused upon teaching (aspiring) entrepreneurs how to do "business" differently.
 
-Because business can be a form of activism.  Or art.  Or creativity.  Or spirituality..
+Because business can be a form of activism..  or art..  or self-expression..  or spirituality..
 
 * [About Nonprofit Ventures](brainstorm-notes/README.md)
 * [Course Materials: Prototyping](course-materials/README.md)
