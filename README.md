@@ -4,6 +4,8 @@ Both venture capital and "exits" (acquisitions/IPO) are the business industry's 
 
 Aspiring entrepreneurs need to understand: the owner calls the shots. Investment and "exits" prevent entrepreneurs from being too wayward. This is why tech hasn’t fulfilled its promise and hasn’t benefitted those at the bottom of the pyramid enough. Especially with Venture Capital, the existing biases of society are reinforced - mid-20s, white, male business. But incubators and MBA programs are educating entrepreneurs to buy into this system.
 
+Nonprofit Ventures is dedicated to teaching (aspiring) entrepreneurs how to do things differently.
+
 * [About Nonprofit Ventures](brainstorm-notes/README.md)
 * [Course Materials: Prototyping](course-materials/README.md)
 
