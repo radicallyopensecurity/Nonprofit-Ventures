@@ -94,8 +94,8 @@ This is just a few examples.  The possibilities are endless…
 
 # Appendix: Example Statutes
 
-* [NPV Foundation Statutes](example-statutes/NPV-Stichting-Statutes.pdf)
-* [NPV Company Statutes](example-statutes/NPV-BV-Statutes.pdf)
+* [NPV Foundation Statutes](/example-statutes/NPV-Stichting-Statutes.pdf)
+* [NPV Company Statutes](/example-statutes/NPV-BV-Statutes.pdf)
 
 
 
