@@ -13,7 +13,7 @@ Given the political and socioeconomic trends in the world today, society needs a
 
 # What is Nonprofit Business?
 
-‘Nonprofit Business’ is a form of social enterprise that gives 100% of its profits to charity.   This is both a practical and a thought exercise intended to bake ‘ethics by design’ into a company.  You can’t just slap ethics on like a bandaid long after the company’s inception, and think that it will make your business ethical.
+‘Nonprofit Business’ is a form of social enterprise that gives 100% of its profits to charity.   This is both a practical and a thought exercise intended to bake ‘ethics by design’ into a company.  You can’t just slap ethics on like a bandaid long after a company’s inception, and think that it will make your business ethical.
 
 The easiest way to implement a Nonprofit Business: start with a Foundation holding 100% of the shares of a company.  The following clauses are then written into both the company and foundation’s statutes:
 
