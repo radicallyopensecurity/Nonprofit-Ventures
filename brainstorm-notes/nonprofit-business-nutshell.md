@@ -67,7 +67,9 @@ The purpose of this section is to teach you, the aspiring Nonprofit Entrepreneur
 
 Here’s the next steps….
 
-* Think about your next steps: what nonprofit passion project can you start, that is a logical extension of your current business?   Can you couple that with a commercial service, grounded in the pain of the market?   Can you get it launching customers?    That will get the ball rolling with your new Nonprofit Business.   (The best thing is - your original company will help to support your new one.   That makes things easier.)   Important: make sure that your new nonprofit company is good bizdev for the old one.   (That’s how you can justify their working together.)  
+* Think about your next steps: what nonprofit passion project can you start, that is a logical extension of your current business?   Can you couple that with a commercial service, grounded in the pain of the market?   Can you get it launching customers?    That will get the ball rolling with your new Nonprofit Business.
+* The best thing is - your original company will help to support your new one.   That makes things easier.
+  * Important: make sure that your new nonprofit company is good bizdev for the old one.   That’s how you can justify their working together.  
 * Go through the bootstrapping process again - your old business will continue growing (aided by support staff), and you can spend some of your time and energy bootstrapping the new initiative(s).
 * Rinse and repeat!   Don’t forget to also take time off when you desire it.  Even heros need rest sometimes.    :-)
 
