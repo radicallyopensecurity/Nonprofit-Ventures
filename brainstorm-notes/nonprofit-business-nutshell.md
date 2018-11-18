@@ -81,7 +81,7 @@ Here’s a few ideas, that are by no means exhaustive:
 * Nonprofit Music Streaming
 * Nonprofit Carbon Offsetting
 * Nonprofit Circular Waste Handling
-* Nonprofit Groupon for SMEs Purchasing Security Services
+* Nonprofit Groupon for Tiny SMEs (group buying security testing, or other services)
 * Nonprofit Accountacy Firm
 * Nonprofit Law Firm
 * Nonprofit Childcare Platform
