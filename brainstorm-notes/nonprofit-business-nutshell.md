@@ -86,7 +86,7 @@ Here’s a few ideas, that are by no means exhaustive:
 * Nonprofit Law Firm
 * Nonprofit Childcare Platform
 * Nonprofit Vegetarian/Vegan instant supermarket meals
-* Nonprofit Business Services for Creatives (artists, musicians, etc..)
+* Nonprofit Incubator and/or Services for Creatives (artists, musicians, etc..)
 * Nonprofit Banks
 * Nonprofit Insurance
 * Nonprofit Company providing a Universal Basic Income (UBI)
