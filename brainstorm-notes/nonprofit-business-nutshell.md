@@ -27,7 +27,7 @@ The easiest way to implement a Nonprofit Business: start with a Foundation holdi
 8. These statutes cannot be changed, to undo these restrictions
 9. We need a suitably draconian “default” clause - to prevent intentional breach of contract
 
-Much of what is written here (especially #2 and #3) flies in the face of what is “common knowledge” in business.  We are aiming to harness contract law to ensure that a Nonprofit Business actually remains nonprofit.
+Much of what is written here (especially #2 and #3) flies in the face of “common knowledge” in business.  We are also aiming to harness contract law to ensure that a Nonprofit Business actually remains nonprofit.
 
 
 # Business Education Has It All Wrong
