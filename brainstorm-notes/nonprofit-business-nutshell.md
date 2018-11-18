@@ -21,8 +21,8 @@ The easiest way to implement a Nonprofit Business: start with a Foundation holdi
 2. No investors (no angel, no VC, no impact, limited subsidies)
 3. No exits (selling the company / acquisition-mergers / IPO)
 4. Cap on salaries of staff (including the founders and director)
-5. Any profits (cash that leaves the company as dividends) must go to a specified Nonprofit Foundation
-6. Define a maximum amount of cash the company can have in the bank before profits MUST be given to the Nonprofit Foundation 
+5. Any profits (cash that leaves the company as dividends) must go to a specified Charitable Foundation
+6. Define a maximum amount of cash the company can have in the bank before profits MUST be given to the Charitable Foundation 
 7. Fair working conditions for staff
 8. These statutes cannot be changed, to undo these restrictions
 9. We need a suitably draconian “default” clause - to prevent intentional breach of contract
