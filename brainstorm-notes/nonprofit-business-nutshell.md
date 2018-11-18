@@ -94,9 +94,8 @@ This is just a few examples.  The possibilities are endless…
 
 # Appendix: Example Statutes
 
-* [Insert Foundation Statutes here]
-* [Insert Company Statutes here]
-
+* [Example Foundation Statutes](example-statutes/blah.md)
+* [Example Company Statutes](example-statutes/blah.md)
 
 
 
