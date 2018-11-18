@@ -95,12 +95,12 @@ This is just a few examples.  The possibilities are endless…
 
 # Appendix: Example Statutes
 
-Here are the statutes of Nonprofit Ventures, to use as an example.
-
-Please bear in mind that these are a Work In Progress:
+Here are the statutes of Nonprofit Ventures, to use as an example:
 
 * [NPV Foundation Statutes](/example-statutes/NPV-Stichting-Statutes.pdf)
 * [NPV Company Statutes](/example-statutes/NPV-BV-Statutes.pdf)
+
+Please bear in mind that these are a Work In Progress.
 
 Please send any questions / comments / criticisms to: melanie@radicallyopensecurity.com
 
