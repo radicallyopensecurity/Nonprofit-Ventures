@@ -113,11 +113,13 @@ Please also send any questions / comments / criticisms to: melanie@radicallyopen
 * [Reinventing Organizations](https://www.amazon.com/gp/product/B01HTWF0YW) - Frederic Laloux
 * [The Tao of Leadership](https://www.amazon.com/Tao-Leadership-Tzus-Ching-Adapted-ebook/dp/B00YAU69IS) - John Heider
 * [Dare to Lead](https://www.amazon.com/Dare-Lead-Brave-Conversations-Hearts-ebook/dp/B07CWGFPS7) - Brene Brown
-* [4 Hour Work Week](https://www.amazon.com/dp/B002WE46UW) - Tim Ferriss (too "Silicon Valley" - BUT many good ideas)
+* [4 Hour Work Week](https://www.amazon.com/dp/B002WE46UW) - Tim Ferriss (very "Silicon Valley" - BUT many good ideas)
 
 ## Internet
 
 * [TED Talk: Start With Why](https://www.youtube.com/watch?v=u4ZoJKF_VuA) - Simon Sinek
 * [Why Garbage Men Should Earn More Than Bankers](http://evonomics.com/why-garbage-men-should-earn-more-than-bankers/) - Rutger Bregman
+* [Entrepreneneurial Thought Leaders](https://ecorner.stanford.edu/series/etl/) - good podcast series
+
 
 
