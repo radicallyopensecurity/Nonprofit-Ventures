@@ -8,7 +8,7 @@ Nonprofit Ventures is focused upon teaching (aspiring) entrepreneurs how to do "
 
 Because business can be a form of activism..  or art..  or self-expression..  or spirituality..
 
-* [About Nonprofit Business](brainstorm-notes/nonprofit-business-nutshell.md)
+* [Nonprofit Business](brainstorm-notes/nonprofit-business-nutshell.md)
 * [About Nonprofit Ventures](brainstorm-notes/README.md)
 * [Course Materials: Prototyping](course-materials/README.md)
 
