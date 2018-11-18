@@ -93,7 +93,7 @@ Here’s a few ideas, that are by no means exhaustive:
 
 This is just a few examples.  The possibilities are endless…
 
-# Appendix: Example Statutes
+# Appendix A: Example Statutes
 
 Here are the statutes of Nonprofit Ventures, to use as an example:
 
@@ -104,7 +104,12 @@ Please bear in mind that these are a Work In Progress.
 
 Please also send any questions / comments / criticisms to: melanie@radicallyopensecurity.com
 
+# Appendix B: Helpful Reading
 
+* [The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898) - Eric Ries
+* [Exponential Organizations](https://www.amazon.com/Exponential-Organizations-organizations-better-cheaper-ebook/dp/B00OO8ZGC6) - Salim Ismail, Michael S. Malone, Yuri van Geest, Peter H. Diamandis
+* [The Tao of Leadership](https://www.amazon.com/Tao-Leadership-Tzus-Ching-Adapted-ebook/dp/B00YAU69IS) - John Heider
+* [Dare to Lead](https://www.amazon.com/Dare-Lead-Brave-Conversations-Hearts-ebook/dp/B07CWGFPS7n) - Brene Brown
 
 
 
