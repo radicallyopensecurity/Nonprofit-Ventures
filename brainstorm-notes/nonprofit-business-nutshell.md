@@ -5,7 +5,7 @@ Business can be the most effective form of activism..
 
 Business can be the most expressive form of art..
 
-But we have never been tought to think about it in this way.
+But we have never been taught to think about it in this way.
 
 Given the political and socioeconomic trends in the world today, citizens need a flexible and financially durable tool to combat the many problems in the world.  The concept of business has been much maligned - and for good reasons.   However, we the people, can reclaim business for what it was originally intended for: allowing a group of citizens to band together to achieve a beneficial and socially-relevant goal.
 
