@@ -32,7 +32,7 @@ Much of what is written here (especially #2 and #3) flies in the face of what is
 
 # Business Education Has It All Wrong
 
-We need to redefine what “success” means in business, because the Silicon Valley narrative (VC, fast growth, scale exponentially, exit) is the root of many problems in business (and resultingly, the world).
+We need to redefine what “success” means in business, because the Silicon Valley narrative (VC, fast growth, scale exponentially, exit) is the root of many problems in business..  and the world.
 
 Both venture capital and "exits" (acquisitions/IPO) are the business industry's way of maintaining control over innovation, since it robs the entrepreneur of control and puts it in the hands of the large and wealthy. This is extra insidious with "impact investment", since it's corrupting social enterprises. Same thing with “intrapreneurship” - it isn’t the same thing as entrepreneurship. You still have a big company controlling your funding, and ultimately what you can and cannot do. Such things kill the joy and love of working for many people. There's not much inherent motivation in working for large interests, to help them to maintain their position and advantage. It's just maintaining the status quo.
 
