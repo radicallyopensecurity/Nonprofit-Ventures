@@ -117,5 +117,6 @@ Please also send any questions / comments / criticisms to: melanie@radicallyopen
 ## Internet
 
 * [TED Talk: Start With Why](https://www.youtube.com/watch?v=u4ZoJKF_VuA) - Simon Sinek
+* [Why Garbage Men Should Earn More Than Bankers](http://evonomics.com/why-garbage-men-should-earn-more-than-bankers/)
 
 
