@@ -40,7 +40,7 @@ Aspiring entrepreneurs need to understand: the owner calls the shots. Investment
 
 # A Methodology for Nonprofit Ventures
 
-The purpose of this section is to teach you, the aspiring Nonprofit Entrepreneur, how to do things differently.
+We will now attempt to teach you, the aspiring Nonprofit Entrepreneur, how to do things differently.
 
 ## Act 1: How to get started
 
