@@ -7,7 +7,7 @@ Business can be the most expressive form of art..
 
 But we have never been tought to think of it in this way.
 
-Given the political and socioeconomic trends in the world, society needs a flexible and financially durable tool to fight today’s problems in the world.  The concept of business has been much maligned - and for good reasons.   However, we the people, can reclaim business for what it was originally intended for: allowing a group of citizens to band together to achieve a beneficial and socially-relevant goal.
+Given the political and socioeconomic trends in the world today, society needs a flexible and financially durable tool to fight today’s problems in the world.  The concept of business has been much maligned - and for good reasons.   However, we the people, can reclaim business for what it was originally intended for: allowing a group of citizens to band together to achieve a beneficial and socially-relevant goal.
 
   In other words: we can fight business with business.
 
