@@ -100,7 +100,7 @@ Here are the statutes of Nonprofit Ventures, to use as an example.   Please bear
 * [NPV Foundation Statutes](/example-statutes/NPV-Stichting-Statutes.pdf)
 * [NPV Company Statutes](/example-statutes/NPV-BV-Statutes.pdf)
 
-Please send any questions / comments / criticisms on these Statutes (or anything here) to: melanie@radicallyopensecurity.com
+Please send any questions / comments / criticisms to: melanie@radicallyopensecurity.com
 
 
 
