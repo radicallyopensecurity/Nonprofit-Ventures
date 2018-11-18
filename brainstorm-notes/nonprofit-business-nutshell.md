@@ -106,12 +106,16 @@ Please also send any questions / comments / criticisms to: melanie@radicallyopen
 
 # Appendix B: Helpful Reading
 
+## Books 
+
 * [The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898) - Eric Ries
 * [Exponential Organizations](https://www.amazon.com/Exponential-Organizations-organizations-better-cheaper-ebook/dp/B00OO8ZGC6) - Salim Ismail, Michael S. Malone, Yuri van Geest, Peter H. Diamandis
 * [Reinventing Organizations](https://www.amazon.com/gp/product/B01HTWF0YW) - Frederic Laloux
-* [Start With Why](https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone-ebook/dp/B002Q6XUE4) - Simon Sinek ([TED Talk](https://www.youtube.com/watch?v=u4ZoJKF_VuA))
 * [The Tao of Leadership](https://www.amazon.com/Tao-Leadership-Tzus-Ching-Adapted-ebook/dp/B00YAU69IS) - John Heider
 * [Dare to Lead](https://www.amazon.com/Dare-Lead-Brave-Conversations-Hearts-ebook/dp/B07CWGFPS7) - Brene Brown
 
+## Internet
+
+* [TED Talk: Start With Why](https://www.youtube.com/watch?v=u4ZoJKF_VuA) - Simon Sinek
 
 
