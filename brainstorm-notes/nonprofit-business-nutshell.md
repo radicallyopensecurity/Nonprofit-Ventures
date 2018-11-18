@@ -102,7 +102,7 @@ Here are the statutes of Nonprofit Ventures, to use as an example:
 
 Please bear in mind that these are a Work In Progress.
 
-Please send any questions / comments / criticisms to: melanie@radicallyopensecurity.com
+Please also send any questions / comments / criticisms to: melanie@radicallyopensecurity.com
 
 
 
