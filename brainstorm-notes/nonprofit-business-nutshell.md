@@ -110,7 +110,7 @@ Please also send any questions / comments / criticisms to: melanie@radicallyopen
 * [Exponential Organizations](https://www.amazon.com/Exponential-Organizations-organizations-better-cheaper-ebook/dp/B00OO8ZGC6) - Salim Ismail, Michael S. Malone, Yuri van Geest, Peter H. Diamandis
 * [Start With Why](https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone-ebook/dp/B002Q6XUE4) - Simon Sinek
 * [The Tao of Leadership](https://www.amazon.com/Tao-Leadership-Tzus-Ching-Adapted-ebook/dp/B00YAU69IS) - John Heider
-* [Dare to Lead](https://www.amazon.com/Dare-Lead-Brave-Conversations-Hearts-ebook/dp/B07CWGFPS7n) - Brene Brown
+* [Dare to Lead](https://www.amazon.com/Dare-Lead-Brave-Conversations-Hearts-ebook/dp/B07CWGFPS7) - Brene Brown
 
 
 
