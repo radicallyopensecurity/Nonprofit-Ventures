@@ -25,7 +25,7 @@ The easiest way to implement a Nonprofit Business: start with a Foundation holdi
 6. Define a maximum amount of cash the company can have in the bank before profits MUST be given (in the form of dividends) to the Charitable Foundation 
 7. Fair working conditions for staff
 8. These statutes cannot be changed, to undo these restrictions
-9. We need a suitably draconian “default” clause - to prevent intentional breach of contract
+9. A suitably draconian “default” clause - to prevent intentional breach of contract
 
 Much of what is written here (especially #2 and #3) flies in the face of “common knowledge” in business.  With #8 and #9, we are also aiming to harness contract law to ensure that a Nonprofit Business actually remains nonprofit.
 
