@@ -113,6 +113,7 @@ Please also send any questions / comments / criticisms to: melanie@radicallyopen
 * [Reinventing Organizations](https://www.amazon.com/gp/product/B01HTWF0YW) - Frederic Laloux
 * [The Tao of Leadership](https://www.amazon.com/Tao-Leadership-Tzus-Ching-Adapted-ebook/dp/B00YAU69IS) - John Heider
 * [Building Social Business](https://www.amazon.com/dp/B003KK55DO) - Muhammad Yunus
+* [Winners Take All](https://www.amazon.com/dp/B077WZRBV2) - Anand Giridharadas
 * [Dare to Lead](https://www.amazon.com/Dare-Lead-Brave-Conversations-Hearts-ebook/dp/B07CWGFPS7) - Brene Brown
 * [4 Hour Work Week](https://www.amazon.com/dp/B002WE46UW) - Tim Ferriss
 * [The Artists Way](https://www.amazon.com/Artists-Way-25th-Anniversary/dp/0143129252) - Julia Cameron
