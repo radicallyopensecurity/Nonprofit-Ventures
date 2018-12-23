@@ -122,7 +122,7 @@ Please also send any questions / comments / criticisms to: melanie@radicallyopen
 
 ## Internet
 
-* [TED Talk: Start With Why](https://www.youtube.com/watch?v=u4ZoJKF_VuA) - Simon Sinek
+* [TEDx: Start With Why](https://www.youtube.com/watch?v=u4ZoJKF_VuA) - Simon Sinek
 * [Why Garbage Men Should Earn More Than Bankers](http://evonomics.com/why-garbage-men-should-earn-more-than-bankers/) - Rutger Bregman
 * [TED Podcast: Creativity and Showing Up](https://www.ted.com/talks/the_ted_interview_elizabeth_gilbert_shows_up_for_everything?language=en) - Elizabeth Gilbert
 * [Entrepreneneurial Thought Leaders Podcast Series](https://ecorner.stanford.edu/series/etl/) - Stanford University eCorner
