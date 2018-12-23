@@ -116,7 +116,7 @@ Please also send any questions / comments / criticisms to: melanie@radicallyopen
 * [Building Social Business](https://www.amazon.com/dp/B003KK55DO) - Muhammad Yunus
 * [Winners Take All](https://www.amazon.com/dp/B077WZRBV2) - Anand Giridharadas
 * [Dare to Lead](https://www.amazon.com/Dare-Lead-Brave-Conversations-Hearts-ebook/dp/B07CWGFPS7) - Brene Brown
-* [Sacred Economics](http://sacred-economics.com/read-online/) - Charles Eisenstein
+* [Sacred Economics](https://www.amazon.com/Sacred-Economics-Money-Society-Transition-ebook/dp/B004ZZNNKU) - Charles Eisenstein
 * [4 Hour Work Week](https://www.amazon.com/dp/B002WE46UW) - Tim Ferriss
 * [The Artists Way](https://www.amazon.com/Artists-Way-25th-Anniversary/dp/0143129252) - Julia Cameron
 
