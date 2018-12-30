@@ -124,8 +124,8 @@ Please also send any questions / comments / criticisms to: melanie@radicallyopen
 
 * [TEDx: Start With Why](https://www.youtube.com/watch?v=u4ZoJKF_VuA) - Simon Sinek
 * [Why Garbage Men Should Earn More Than Bankers](http://evonomics.com/why-garbage-men-should-earn-more-than-bankers/) - Rutger Bregman
+* [TED: A Healthy Economy Should Be Designed To Thrive Not Grow](https://www.ted.com/talks/kate_raworth_a_healthy_economy_should_be_designed_to_thrive_not_grow#t-9743) - Kate Raworth
 * [TED Podcast: Creativity and Showing Up](https://www.ted.com/talks/the_ted_interview_elizabeth_gilbert_shows_up_for_everything?language=en) - Elizabeth Gilbert
 * [Entrepreneneurial Thought Leaders Podcast Series](https://ecorner.stanford.edu/series/etl/) - Stanford University eCorner
-
 
 
